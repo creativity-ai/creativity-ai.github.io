@@ -1,7 +1,7 @@
 ---
 layout: default
-title: NeurIPS 2024 Workshop on Generative AI and Creativity: A dialogue between machine learning researchers and creative professionals
-description: 
+title: NeurIPS 2024 Workshop on Generative AI and Creativity
+description: A dialogue between machine learning researchers and creative professionals
 ---
 
 Welcome to our **Workshop on Generative AI and Creativity: A dialogue between machine learning researchers and creative professionals**!
