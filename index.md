@@ -92,7 +92,11 @@ TBD
 </figure>
 
 <figure>
-    <a>Holden Lee</a>
+	<a href="https://holdenlee.github.io/">
+    <img class="img-author" src="https://holdenlee.github.io/pics/holden.jpg" alt="Holden Lee"/></a>
+    <b><br><a href="https://holdenlee.github.io/">
+	Holden Lee (He/They)</a>
+    <br>Assistant Professor<br>Johns Hopkins University</b>
 </figure>
     
 <figure>
