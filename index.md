@@ -8,6 +8,7 @@ Welcome to the **Generative AI and Creativity** workshop at NeurIPS 2024!
 This workshop aims to bridge the gap between AI researchers and creative professionals, fostering mutual understanding and collaboration to address the impact of generative AI on creative fields.
 
 The rapid advancement of generative AI technology has significantly affected various creative professions, from writing and visual art to music and performing arts. High-profile events such as the New York Times lawsuit against OpenAI and the Writers Guild of America and SAG-AFTRA strike against Hollywood highlight the disconnect between AI developers and creative professionals. This workshop seeks to address this disconnect by fostering dialogue and collaboration between these communities.
+
 The transformative potential of generative AI will only be fully realized when AI researchers gain a deeper understanding of the creative processes of human artists and develop constructive partnerships based on that understanding. This workshop aims to create such connections.
 
 The workshop will cover a broad range of topics, including:
@@ -20,8 +21,10 @@ The workshop will cover a broad range of topics, including:
 - Benchmarking "creativity" in generative AI systems
 - Theories of data governance, provenance, and leverage
 - Proposals for data licensing for AI training, especially for creative applications
+- Surveys of attitudes and practices of creative professionals regarding generative AI
+- Discussion of generative AI from legal, ethical, economic, or other perspectives
 
-We also invite creative submissions that critically engage with the use of AI in creative endeavors. The work can be generated with or without AI tools and can be "proof-of-concept". We seek work that sparks conversation about our relationship with AI and shows new ways of collaborating creatively with AI.
+The workshop will also showcase artwork that critically engages with the use of AI in creative endeavors and sparks conversations about our relationship with AI.
 
 ---
 
@@ -106,6 +109,43 @@ TBD
     <br>Postdoc<br>Chaire UNESCO en Paysage Urbain, Université de Montréal </b>
 </figure>
 </div>
+
+---
+
+## **Call for Papers and Creative Work** {#call}
+
+**Please check back soon for the submission portal.**
+
+### Call for Papers
+
+We invite participants to submit 2-page papers in the NeurIPS camera-ready format (with author names visible) at our submission portal by 11:59pm **August 29**, AoE. References and any supplementary materials provided do not count as part of the 2-page limit. However, it will be at the reviewers’ discretion to read the supplementary materials.
+
+We invite both technical contributions related to building tools aligned with the values and needs of creative professionals, as well as perspectives on broader issues in the field. See the workshop description above for a (non-exhaustive) list of topics.
+
+At least one author of each accepted paper must register for and attend the workshop. Submissions cannot have previously appeared in conferences or journals, including the main NeurIPS conference. Accepted papers will appear on the workshop website, but the workshop will not have official proceedings.
+
+
+### Call for Creative Work
+
+We invite creative submissions of all forms, including (and not limited to) visual art, writing, music, film, mathematics, and performance, that critically engage with the use of AI in creative endeavors. The work itself can be generated with or without AI tools, and can be “proof-of-concept”.
+We especially look for work that puts generative AI in context within the creative process, shows new ways of collaborating creatively with AI, and sparks conversation about our relationship with AI. Artwork will be judged based on both artistic merit and on thematic relevance.
+Submit at our submission portal by 11:59pm **August 29**, AoE. 
+
+While registration is required to attend the workshop, it will not be required to have accepted artwork.
+
+If your work is selected for inclusion in the program, you grant us non-exclusive rights to publish and reproduce the artwork. By submitting, you affirm that you are the author of the work and have the authority to grant these rights.
+Please indicate whether the work has previously appeared in other venues (including online) or is currently being reviewed elsewhere. We will prioritize original submissions which have not previously appeared in other venues.
+
+Submissions should consist of the following, placed within a single .zip folder:
+
+- Required: At least one of the following
+	- A single file consisting of the artwork, named `artwork_name_main` (with appropriate file extension).
+	- For works that are not film, you may submit a video of at most 1 minute demonstrating the artwork, named `artwork_name_video.mp4`; we recommend this for works that cannot easily be presented electronically, for example, a physical interactive experience.
+- Required: A description to accompany the artwork, in the same format as in the call for papers. This should include the title and artist bios. This can include a description of the creation process or discussion of themes, and will be taken into account when evaluating the submission.
+- Optional: You may submit additional files named `artwork_name_supplementary_1`, `artwork_name_supplementary_2`, etc. Note that the submission will primarily be judged by the merit of the main piece, and we will include any supplementary work in the program at our discretion.
+
+If you are not able to submit your piece conforming to the above format, please get in touch with us with a description of your work, and we can arrange an alternative way for you to submit. For example, we may ask you to submit a link if it is an interactive piece hosted on a web server. Submissions not adhering to the above guidelines will be accepted only when cleared with us.
+
 
 ---
 
