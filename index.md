@@ -30,11 +30,11 @@ The workshop will also showcase artwork that critically engages with the use of 
 
 ## **Important Dates** {#dates}
 
-| **Event**           | **Date** |
-| ------------------- | -------- |
-| Submission Deadline | TBD      |
-| Final Decisions     | TBD      |
-| Workshop Date       | TBD      |
+| **Event**           | **Date**        |
+| ------------------- | --------------- |
+| Submission Deadline | August 29, 2024 |
+| Final Decisions     | TBD             |
+| Workshop Date       | TBD             |
 
 ---
 
@@ -103,7 +103,10 @@ TBD
 <div class="container">
 
 <figure>
-  <a>Yaim Cooper</a>
+    <a href="https://math.nd.edu/people/faculty/yaim-cooper/">
+    <img class="img-author" src="assets/imgs/authors/neurips2024/yaim_cooper.png" alt="Yaim Cooper"/></a>
+    <b><br><a href="https://unesco-studio.umontreal.ca/team/hugo_berard.html">Yaim Cooper (She/Her)</a>
+    <br><br>University of Notre Dame</b>
 </figure>
 
 <figure>
@@ -136,12 +139,11 @@ We invite both technical contributions related to building tools aligned with th
 
 At least one author of each accepted paper must register for and attend the workshop. Submissions cannot have previously appeared in conferences or journals, including the main NeurIPS conference. Accepted papers will appear on the workshop website, but the workshop will not have official proceedings.
 
-
 ### Call for Creative Work
 
 We invite creative submissions of all forms, including (and not limited to) visual art, writing, music, film, mathematics, and performance, that critically engage with the use of AI in creative endeavors. The work itself can be generated with or without AI tools, and can be “proof-of-concept”.
 We especially look for work that puts generative AI in context within the creative process, shows new ways of collaborating creatively with AI, and sparks conversation about our relationship with AI. Artwork will be judged based on both artistic merit and on thematic relevance.
-Submit at our submission portal by 11:59pm **August 29**, AoE. 
+Submit at our submission portal by 11:59pm **August 29**, AoE.
 
 While registration is required to attend the workshop, it will not be required to have accepted artwork.
 
@@ -151,13 +153,12 @@ Please indicate whether the work has previously appeared in other venues (includ
 Submissions should consist of the following, placed within a single .zip folder:
 
 - Required: At least one of the following
-	- A single file consisting of the artwork, named `artwork_name_main` (with appropriate file extension).
-	- For works that are not film, you may submit a video of at most 1 minute demonstrating the artwork, named `artwork_name_video.mp4`; we recommend this for works that cannot easily be presented electronically, for example, a physical interactive experience.
+  - A single file consisting of the artwork, named `artwork_name_main` (with appropriate file extension).
+  - For works that are not film, you may submit a video of at most 1 minute demonstrating the artwork, named `artwork_name_video.mp4`; we recommend this for works that cannot easily be presented electronically, for example, a physical interactive experience.
 - Required: A description to accompany the artwork, in the same format as in the call for papers. This should include the title and artist bios. This can include a description of the creation process or discussion of themes, and will be taken into account when evaluating the submission.
 - Optional: You may submit additional files named `artwork_name_supplementary_1`, `artwork_name_supplementary_2`, etc. Note that the submission will primarily be judged by the merit of the main piece, and we will include any supplementary work in the program at our discretion.
 
 If you are not able to submit your piece conforming to the above format, please get in touch with us with a description of your work, and we can arrange an alternative way for you to submit. For example, we may ask you to submit a link if it is an interactive piece hosted on a web server. Submissions not adhering to the above guidelines will be accepted only when cleared with us.
-
 
 ---
 
