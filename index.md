@@ -4,7 +4,7 @@ title: NeurIPS 2024 Workshop on Generative AI and Creativity
 description: A dialogue between machine learning researchers and creative professionals
 ---
 
-Welcome to the **Generative AI and Creativity** workshop at NeurIPS 2024!
+Welcome to the **Generative AI and Creativity** workshop at [NeurIPS 2024](https://neurips.cc/) (December 14/15 in Vancouver, Canada)!
 This workshop aims to bridge the gap between AI researchers and creative professionals, fostering mutual understanding and collaboration to address the impact of generative AI on creative fields.
 
 The rapid advancement of generative AI technology has significantly affected various creative professions, from writing and visual art to music and performing arts. High-profile events such as the New York Times lawsuit against OpenAI and the Writers Guild of America and SAG-AFTRA strike against Hollywood highlight the disconnect between AI developers and creative professionals. This workshop seeks to address this disconnect by fostering dialogue and collaboration between these communities.
