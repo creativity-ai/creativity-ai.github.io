@@ -33,8 +33,8 @@ The workshop will also showcase artwork that critically engages with the use of 
 | **Event**           | **Date**        |
 | ------------------- | --------------- |
 | Submission Deadline | August 29, 2024 |
-| Final Decisions     | TBD             |
-| Workshop Date       | TBD             |
+| Final Decisions     | October 9, 2024             |
+| Workshop Date       | December 14/15, 2024             |
 
 ---
 
