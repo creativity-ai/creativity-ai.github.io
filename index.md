@@ -142,7 +142,7 @@ Submissions cannot have previously appeared in conferences or journals, **except
 
 ### Call for Creative Work
 
-We invite creative submissions of all forms, including (and not limited to) visual art, writing, music, film, mathematics, and performance, that critically engage with the use of AI in creative endeavors. The work itself can be generated with or without AI tools, and can be “proof-of-concept”.
+We invite creative submissions of all forms, including (and not limited to) visual art, writing, music, film, games, mathematics, and performance, that critically engage with the use of AI in creative endeavors. The work itself can be generated with or without AI tools, and can be “proof-of-concept”.
 We especially look for work that puts generative AI in context within the creative process, shows new ways of collaborating creatively with AI, and sparks conversation about our relationship with AI. Artwork will be judged based on both artistic merit and on thematic relevance.
 Submit at our submission portal by 11:59pm **September 2**, AoE.
 
@@ -151,7 +151,7 @@ While registration is required to attend the workshop, it will not be required t
 If your work is selected for inclusion in the program, you grant us non-exclusive rights to publish and reproduce the artwork. By submitting, you affirm that you are the author of the work and have the authority to grant these rights.
 Please indicate whether the work has previously appeared in other venues (including online) or is currently being reviewed elsewhere. We will prioritize original submissions which have not previously appeared in other venues.
 
-Submissions should consist of the following, placed within a single .zip folder:
+Submissions should consist of the following, placed within a single .zip folder of at most 100MB:
 
 - Required: At least one of the following
   - A single file consisting of the artwork, named `artwork_name_main` (with appropriate file extension). (Replace `artwork_name` with the title of the piece.)
