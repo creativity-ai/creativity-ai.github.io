@@ -136,7 +136,9 @@ We invite both technical contributions related to building tools aligned with th
 - Surveys of attitudes and practices of creative professionals regarding generative AI
 - Discussion of generative AI from legal, ethical, economic, or other perspectives
 
-At least one author of each accepted paper must register for and attend the workshop. Submissions cannot have previously appeared in conferences or journals, including the main NeurIPS conference. Accepted papers will appear on the workshop website, but the workshop will not have official proceedings.
+At least one author of each accepted paper must register for and attend the workshop. Authors of accepted papers are invited to present a poster on their work in the poster session. A small number of papers may be selected for an invited talk.
+
+Submissions cannot have previously appeared in conferences or journals, **excepting** the main NeurIPS 2024 conference. Accepted papers will appear on the workshop website, but the workshop will not have official proceedings.
 
 ### Call for Creative Work
 
@@ -144,7 +146,7 @@ We invite creative submissions of all forms, including (and not limited to) visu
 We especially look for work that puts generative AI in context within the creative process, shows new ways of collaborating creatively with AI, and sparks conversation about our relationship with AI. Artwork will be judged based on both artistic merit and on thematic relevance.
 Submit at our submission portal by 11:59pm **September 2**, AoE.
 
-While registration is required to attend the workshop, it will not be required to have accepted artwork.
+While registration is required to attend the workshop, it will not be required to have accepted artwork. A small number of creators may be selected to give an invited talk.
 
 If your work is selected for inclusion in the program, you grant us non-exclusive rights to publish and reproduce the artwork. By submitting, you affirm that you are the author of the work and have the authority to grant these rights.
 Please indicate whether the work has previously appeared in other venues (including online) or is currently being reviewed elsewhere. We will prioritize original submissions which have not previously appeared in other venues.
