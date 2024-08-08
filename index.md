@@ -126,7 +126,7 @@ TBA
     <a href="https://kenliu.name/">
     <img class="img-author" src="assets/imgs/authors/neurips2024/ken-liu.jpg" alt="Ken Liu"/></a>
     <b><br><a href="https://kenliu.name/" class="text-main">Ken Liu</a>
-    <br>Science Fiction Writter</b>
+    <br>Science Fiction Writer</b>
 </figure>
 
 <figure>
@@ -172,7 +172,7 @@ We invite both technical contributions related to building tools aligned with th
 
 At least one author of each accepted paper must register for and attend the workshop. Authors of accepted papers are invited to present a poster on their work in the poster session. A small number of papers may be selected for an invited talk.
 
-Submissions cannot have previously appeared in conferences or journals, **excepting** the main NeurIPS 2024 conference. Accepted papers will appear on the workshop website, but the workshop will not have official proceedings.
+Submissions that have appeared in the main NeurIPS 2024 conference are allowed. Otherwise, submissions cannot have previously appeared in conferences or journals. Accepted papers will appear on the workshop website, but the workshop will not have official proceedings.
 
 ### Call for Creative Work
 
