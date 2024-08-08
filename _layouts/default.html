@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}" data-theme="light">
   <head>
     <meta charset="UTF-8">
 
@@ -10,12 +10,18 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     {% include head-custom.html %}
   </head>
   <body>
+    <div class="navbar fixed">
+      <a class="btn btn-ghost text-xl" href=""><i class="fa-solid fa-chevron-up"></i>Back to Top </a>
+    </div>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
+    <header class=" flex flex-col items-center page-header gap-2" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
@@ -27,13 +33,23 @@
       {% endif %}
 
       <nav class="main-navigation" role="navigation">
-        <a href="#dates" class="btn" target="_self">Important Dates</a>
-        <a href="#schedule" class="btn" target="_self">Schedule</a>
-        <a href="#speakers" class="btn" target="_self">Keynote Speakers</a>
-        <a href="#panelists" class="btn" target="_self">Panelists</a>
-        <a href="#organizers" class="btn" target="_self">Organizers</a>
-        <a href="#call" class="btn" target="_self">Call for Papers</a>
+        <a href="#dates" class="btn btn-transparent" target="_self">Important Dates</a>
+        <a href="#schedule" class="btn btn-transparent" target="_self">Schedule</a>
+        <a href="#speakers" class="btn btn-transparent" target="_self">Keynote Speakers</a>
+        <a href="#panelists" class="btn btn-transparent" target="_self">Panelists</a>
+        <a href="#organizers" class="btn btn-transparent" target="_self">Organizers</a>
+        <a href="#call" class="btn btn-transparent" target="_self">Call for Papers</a>
       </nav>
+
+      <div class="flex flex-col gap-2">
+      <div class="text-sm">Follow us:</div>
+      <div class="flex gap-6  items-center text-3xl">
+        <a href="mailto:creativity.ai.neurips@gmail.com"><i class="fa-solid fa-envelope"></i></a>
+        <a><i class="fa-brands fa-twitter"></i></a>
+        <a><i class="fa-brands fa-discord"></i></a>
+      </div>
+    </div>
+      
 
     </header>
 

@@ -4,12 +4,14 @@ title: NeurIPS 2024 Workshop on Generative AI and Creativity
 description: A dialogue between machine learning researchers and creative professionals
 ---
 
-Welcome to the **Generative AI and Creativity** workshop at [NeurIPS 2024](https://neurips.cc/) (December 14 or 15 in Vancouver, Canada)!
-This workshop aims to bridge the gap between AI researchers and creative professionals, fostering mutual understanding and collaboration to address the impact of generative AI on creative fields.
+We are happy to announce the inaugural [NeurIPS 2024](https://neurips.cc/) workshop **Generative AI and Creativity: A dialogue between machine learning researchers and creative professionals**. In the wake of a disruptive year of advances in generative AI, we are bringing together the two communities for much-needed conversation. This will help voice the concerns and proposals of creative professionals, foster mutual understanding and collaboration, and jump-start initiatives to empower them.
 
-The rapid advancement of generative AI technology has significantly affected various creative professions, from writing and visual art to music and performing arts. High-profile events such as the New York Times lawsuit against OpenAI and the Writers Guild of America and SAG-AFTRA strike against Hollywood highlight the disconnect between AI developers and creative professionals. This workshop seeks to address this disconnect by fostering dialogue and collaboration between these communities.
+<!-- Welcome to the **Generative AI and Creativity** workshop at [NeurIPS 2024](https://neurips.cc/) (December 14 or 15 in Vancouver, Canada)!
+This workshop aims to bridge the gap between AI researchers and creative professionals, fostering mutual understanding and collaboration to address the impact of generative AI on creative fields. -->
 
-The transformative potential of generative AI will only be fully realized when AI researchers gain a deeper understanding of the creative processes of human artists and develop constructive partnerships based on that understanding. This workshop aims to create such connections.
+<!-- The rapid advancement of generative AI technology has significantly affected various creative professions, from writing and visual art to music and performing arts. High-profile events such as the New York Times lawsuit against OpenAI and the Writers Guild of America and SAG-AFTRA strike against Hollywood highlight the disconnect between AI developers and creative professionals. This workshop seeks to address this disconnect by fostering dialogue and collaboration between these communities.
+
+The transformative potential of generative AI will only be fully realized when AI researchers gain a deeper understanding of the creative processes of human artists and develop constructive partnerships based on that understanding. This workshop aims to create such connections. -->
 
 The workshop will include:
 
@@ -21,11 +23,11 @@ The workshop will include:
 
 ## **Important Dates** {#dates}
 
-| **Event**           | **Date**        |
-| ------------------- | --------------- |
-| Submission Deadline | September 2, 2024 |
-| Final Decisions     | October 9, 2024             |
-| Workshop Date       | December 14 or 15, 2024             |
+| **Event**           | **Date**                |
+| ------------------- | ----------------------- |
+| Submission Deadline | September 2, 2024       |
+| Final Decisions     | October 9, 2024         |
+| Workshop Date       | December 14 or 15, 2024 |
 
 ---
 
@@ -53,30 +55,31 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 ## **Keynote Speakers** {#speakers}
 
-<div class="container">
-    <figure>
+<div class="flex flex-col gap-16 mt-8 mb-8">
+<div class="flex items-center">
+    <figure class="w-1/3">
         <a href="https://en.wikipedia.org/wiki/Ted_Chiang">
         <img class="img-author" src="assets/imgs/authors/neurips2024/ted_chiang.jpg" alt="Ted Chiang"/></a>
-        <b><br><a href="https://en.wikipedia.org/wiki/Ted_Chiang">Ted Chiang</a>
+        <b><br><a href="https://en.wikipedia.org/wiki/Ted_Chiang" class="text-main">Ted Chiang</a>
         <br>Science Fiction Writer</b>
     </figure>
-</div>
-<div class="bio-text">
+<div class="w-2/3">
 <a href="https://en.wikipedia.org/wiki/Ted_Chiang"><b>Ted Chiang</b></a> is an American science fiction writer. His work has won four Nebula awards, four Hugo awards, the John W. Campbell Award for Best New Writer, and six Locus awards. He has published the short story collections Stories of Your Life and Others (2002) and Exhalation: Stories (2019). His short story "Story of Your Life" was the basis of the film Arrival (2016). He is also a technical writer and frequent non-fiction contributor to the New Yorker Magazine, especially on topics in computing such as artificial intelligence. Photo credit: <a href="https://www.flickr.com/photos/arturovillarrubia/5494916110/">Arturo Villarrubia</a>
 </div>
-
-<div class="container">
-    <figure>
-        <a href="https://czhuang.github.io/">
-        <img class="img-author" src="assets/imgs/authors/neurips2024/anna_huang.jpeg" alt="Anna Huang"/></a>
-        <b><br><a href="https://czhuang.github.io/">Anna Huang</a>
-        <br>Research Scientist<br>Google DeepMind</b>
-    </figure>
 </div>
 
-<div class="bio-text">
+<div class="flex items-center">
+    <figure class="w-1/3">
+        <a href="https://czhuang.github.io/">
+        <img class="img-author" src="assets/imgs/authors/neurips2024/anna_huang.jpeg" alt="Anna Huang"/></a>
+        <b><br><a href="https://czhuang.github.io/" class="text-main">Anna Huang</a>
+        <br>Research Scientist<br>Google DeepMind</b>
+    </figure>
+<div class="w-2/3">
 <a href="https://czhuang.github.io/"><b>Anna Huang</b></a>
-is currently a Research Scientist at Magenta in Google DeepMind, focusing on generative models and human-AI partnerships in music creation. She created the ML model Coconet, which powered Google's first AI Doodle, the Bach Doodle, harmonizing 55 million melodies in two days. In 2018, she developed Music Transformer, a pioneering model for generating music with long-term structure, and the first successful adaptation of the transformer architecture to music. Her ICLR paper on Music Transformer is the most cited in music generation. She holds a Canada CIFAR AI Chair at Mila and serves as an adjunct professor at the University of Montreal. She has been involved in the AI Song Contest as a judge and organizer from 2020-2022. Her research interests include designing generative AI with an interaction-driven approach to enhance how we understand, learn, and create music. She collaborates with musicians to tailor AI systems to their creative practices, focusing on interpretability, explainability, and social reinforcement learning. She envisions interactive systems where musicians and AI can co-create, fostering creativity through interaction rather than imitation.
+is a Research Scientist at Magenta in Google DeepMind, specializing in generative models and human-AI partnerships in music creation. She developed Coconet, powering Google's first AI Doodle, and Music Transformer, a pioneering model for long-term music generation. She holds a Canada CIFAR AI Chair at Mila, serves as an adjunct professor at the University of Montreal, and has been involved in the AI Song Contest. Her research focuses on designing interactive generative AI systems to enhance music creation, emphasizing interpretability, explainability, and social reinforcement learning.
+</div>
+</div>
 </div>
 ---
 
@@ -93,24 +96,55 @@ TBA
 <figure>
     <a href="https://math.nd.edu/people/faculty/yaim-cooper/">
     <img class="img-author" src="assets/imgs/authors/neurips2024/yaim_cooper.png" alt="Yaim Cooper"/></a>
-    <b><br><a href="https://unesco-studio.umontreal.ca/team/hugo_berard.html">Yaim Cooper (She/Her)</a>
-    <br><br>University of Notre Dame</b>
+    <b><br><a href="https://math.nd.edu/people/faculty/yaim-cooper/" class="text-main">Yaim Cooper (She/Her)</a>
+    <br>University of Notre Dame</b>
 </figure>
 
 <figure>
 	<a href="https://holdenlee.github.io/">
     <img class="img-author" src="https://holdenlee.github.io/pics/holden.jpg" alt="Holden Lee"/></a>
-    <b><br><a href="https://holdenlee.github.io/">
+    <b><br><a href="https://holdenlee.github.io/" class="text-main">
 	Holden Lee (He/They)</a>
-    <br>Assistant Professor<br>Johns Hopkins University</b>
+    <br>Johns Hopkins University</b>
 </figure>
     
 <figure>
     <a href="https://unesco-studio.umontreal.ca/team/hugo_berard.html">
     <img class="img-author" src="assets/imgs/authors/neurips2024/hugo_berard.jpg" alt="Hugo Berard"/></a>
-    <b><br><a href="https://unesco-studio.umontreal.ca/team/hugo_berard.html">Hugo Berard (He/Him)</a>
-    <br>Postdoc<br>Chaire UNESCO en Paysage Urbain, Université de Montréal </b>
+    <b><br><a href="https://unesco-studio.umontreal.ca/team/hugo_berard.html" class="text-main">Hugo Berard (He/Him)</a>
+    <br>Chaire UNESCO en Paysage Urbain, Université de Montréal </b>
 </figure>
+</div>
+
+---
+
+## **Advisors** {#advisors}
+
+<div class="container">
+
+<figure>
+    <a href="https://kenliu.name/">
+    <img class="img-author" src="assets/imgs/authors/neurips2024/ken-liu.jpg" alt="Ken Liu"/></a>
+    <b><br><a href="https://kenliu.name/" class="text-main">Ken Liu</a>
+    <br>Science Fiction Writter</b>
+</figure>
+
+<figure>
+    <a href="https://www.nickmvincent.com/">
+    <img class="img-author" src="assets/imgs/authors/neurips2024/nicholas-vincent.png" alt="Nicholas Vincent"/></a>
+    <b><br><a href="https://www.nickmvincent.com/" class="text-main">Nicholas Vincent</a>
+    <br>Assistant Professor
+    <br>Simon Fraser University</b>
+</figure>
+
+<figure>
+    <a href="https://eringee.net/">
+    <img class="img-author" src="assets/imgs/authors/neurips2024/ERIN-copyrightElodyLibe-WEB.jpg" alt="Nicholas Vincent"/></a>
+    <b><br><a href="https://eringee.net/" class="text-main">Erin Gee</a>
+    <br>Artist
+    <br> Digital Media & Sound</b>
+</figure>
+
 </div>
 
 ---

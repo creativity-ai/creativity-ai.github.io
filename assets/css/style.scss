@@ -3,26 +3,52 @@
 
 @import "jekyll-theme-cayman";
 
+.main-content ul {
+  list-style: disc;
+  padding: 0 0 0 1.5em;
+}
+
+.main-content .text-main {
+  color: #159957;
+}
+
+.main-content a {
+  color: #159957;
+  display: inline-block;
+}
+
 figure {
-  display: inline-block;
   font-size: small;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  flex: 1;
+  margin: 0;
+  align-items: center;
 }
 
-a {
-  color: $header-bg-color;
-  display: inline-block;
+.btn.btn-transparent {
+  color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.2);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0.3rem;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 }
 
-.embed-container {
-  display: inline-block;
+.btn.btn-transparent:hover {
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.3);
 }
 
 .container {
-  width: 105%;
-  padding: 5px;
-  text-align: center;
-  text-align-last: center;
-  -moz-text-align-last: justify;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 2em;
 }
 
 .img-author {
