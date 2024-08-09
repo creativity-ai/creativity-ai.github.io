@@ -21,7 +21,7 @@
     </div>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class=" flex flex-col items-center page-header gap-2" role="banner">
+    <header class=" flex flex-col items-center page-header gap-2 pb-4" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
@@ -48,6 +48,12 @@
         <a><i class="fa-brands fa-twitter"></i></a>
         <a><i class="fa-brands fa-discord"></i></a>
       </div>
+    </div>
+
+      <div class="flex flex-col gap-2 mt-2">
+        <div class="text-md">Contact us at:
+          <a href="mailto:creativity.ai.neurips@gmail.com">creativity.ai.neurips@gmail.com</a>
+        </div>
     </div>
       
 

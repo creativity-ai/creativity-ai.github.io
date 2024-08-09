@@ -1,10 +1,10 @@
 ---
 layout: default
-title: NeurIPS 2024 Workshop on Generative AI and Creativity
+title: NeurIPS 2024 Workshop on Creativity & Generative AI
 description: A dialogue between machine learning researchers and creative professionals
 ---
 
-We are happy to announce the inaugural [NeurIPS 2024](https://neurips.cc/) workshop **Generative AI and Creativity: A dialogue between machine learning researchers and creative professionals**. In the wake of a disruptive year of advances in generative AI, we are bringing together the two communities for much-needed conversation. This will help voice the concerns and proposals of creative professionals, foster mutual understanding and collaboration, and jump-start initiatives to empower them.
+We are happy to announce the inaugural [NeurIPS 2024](https://neurips.cc/) workshop **Creativity & Generative AI: A dialogue between machine learning researchers and creative professionals**. In the wake of a disruptive year of advances in generative AI, we are bringing together the two communities for much-needed conversation. This will help voice the concerns and proposals of creative professionals, foster mutual understanding and collaboration, and jump-start initiatives to empower them.
 
 <!-- Welcome to the **Generative AI and Creativity** workshop at [NeurIPS 2024](https://neurips.cc/) (December 14 or 15 in Vancouver, Canada)!
 This workshop aims to bridge the gap between AI researchers and creative professionals, fostering mutual understanding and collaboration to address the impact of generative AI on creative fields. -->
@@ -61,7 +61,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
         <a href="https://en.wikipedia.org/wiki/Ted_Chiang">
         <img class="img-author" src="assets/imgs/authors/neurips2024/ted_chiang.jpg" alt="Ted Chiang"/></a>
         <b><br><a href="https://en.wikipedia.org/wiki/Ted_Chiang" class="text-main">Ted Chiang</a>
-        <br>Science Fiction Writer</b>
+        <br>Writer</b>
     </figure>
 <div class="w-2/3">
 <a href="https://en.wikipedia.org/wiki/Ted_Chiang"><b>Ted Chiang</b></a> is an American science fiction writer. His work has won four Nebula awards, four Hugo awards, the John W. Campbell Award for Best New Writer, and six Locus awards. He has published the short story collections Stories of Your Life and Others (2002) and Exhalation: Stories (2019). His short story "Story of Your Life" was the basis of the film Arrival (2016). He is also a technical writer and frequent non-fiction contributor to the New Yorker Magazine, especially on topics in computing such as artificial intelligence. Photo credit: <a href="https://www.flickr.com/photos/arturovillarrubia/5494916110/">Arturo Villarrubia</a>
@@ -73,7 +73,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
         <a href="https://czhuang.github.io/">
         <img class="img-author" src="assets/imgs/authors/neurips2024/anna_huang.jpeg" alt="Anna Huang"/></a>
         <b><br><a href="https://czhuang.github.io/" class="text-main">Anna Huang</a>
-        <br>Research Scientist<br>Google DeepMind</b>
+        <br>Computer Science<br>Google DeepMind</b>
     </figure>
 <div class="w-2/3">
 <a href="https://czhuang.github.io/"><b>Anna Huang</b></a>
@@ -96,7 +96,8 @@ TBA
 <figure>
     <a href="https://math.nd.edu/people/faculty/yaim-cooper/">
     <img class="img-author" src="assets/imgs/authors/neurips2024/yaim_cooper.png" alt="Yaim Cooper"/></a>
-    <b><br><a href="https://math.nd.edu/people/faculty/yaim-cooper/" class="text-main">Yaim Cooper (She/Her)</a>
+    <b><br><a href="https://math.nd.edu/people/faculty/yaim-cooper/" class="text-main">Yaim Cooper</a>
+    <br>Mathematics
     <br>University of Notre Dame</b>
 </figure>
 
@@ -104,15 +105,17 @@ TBA
 	<a href="https://holdenlee.github.io/">
     <img class="img-author" src="https://holdenlee.github.io/pics/holden.jpg" alt="Holden Lee"/></a>
     <b><br><a href="https://holdenlee.github.io/" class="text-main">
-	Holden Lee (He/They)</a>
+	Holden Lee</a>
+    <br>Applied Mathematics and Statistics
     <br>Johns Hopkins University</b>
 </figure>
     
 <figure>
     <a href="https://unesco-studio.umontreal.ca/team/hugo_berard.html">
     <img class="img-author" src="assets/imgs/authors/neurips2024/hugo_berard.jpg" alt="Hugo Berard"/></a>
-    <b><br><a href="https://unesco-studio.umontreal.ca/team/hugo_berard.html" class="text-main">Hugo Berard (He/Him)</a>
-    <br>Chaire UNESCO en Paysage Urbain, Université de Montréal </b>
+    <b><br><a href="https://unesco-studio.umontreal.ca/team/hugo_berard.html" class="text-main">Hugo Berard</a>
+    <br>Computer Science
+    <br>UNESCO Chair in Urban Landscape, University of Montréal </b>
 </figure>
 </div>
 
@@ -126,14 +129,14 @@ TBA
     <a href="https://kenliu.name/">
     <img class="img-author" src="assets/imgs/authors/neurips2024/ken-liu.jpg" alt="Ken Liu"/></a>
     <b><br><a href="https://kenliu.name/" class="text-main">Ken Liu</a>
-    <br>Science Fiction Writter</b>
+    <br>Writter</b>
 </figure>
 
 <figure>
     <a href="https://www.nickmvincent.com/">
     <img class="img-author" src="assets/imgs/authors/neurips2024/nicholas-vincent.png" alt="Nicholas Vincent"/></a>
     <b><br><a href="https://www.nickmvincent.com/" class="text-main">Nicholas Vincent</a>
-    <br>Assistant Professor
+    <br>Computer Science
     <br>Simon Fraser University</b>
 </figure>
 
@@ -141,8 +144,8 @@ TBA
     <a href="https://eringee.net/">
     <img class="img-author" src="assets/imgs/authors/neurips2024/ERIN-copyrightElodyLibe-WEB.jpg" alt="Nicholas Vincent"/></a>
     <b><br><a href="https://eringee.net/" class="text-main">Erin Gee</a>
-    <br>Artist
-    <br> Digital Media & Sound</b>
+    <br>Music
+    <br>University of Montréal</b>
 </figure>
 
 </div>
