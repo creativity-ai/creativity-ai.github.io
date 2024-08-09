@@ -4,7 +4,11 @@ title: NeurIPS 2024 Workshop on Creativity & Generative AI
 description: A dialogue between machine learning researchers and creative professionals
 ---
 
-We are happy to announce the inaugural [NeurIPS 2024](https://neurips.cc/) workshop **Creativity & Generative AI: A dialogue between machine learning researchers and creative professionals**. In the wake of a disruptive year of advances in generative AI, we are bringing together the two communities for much-needed conversation. This will help voice the concerns and proposals of creative professionals, foster mutual understanding and collaboration, and jump-start initiatives to empower them.
+<!-- We are happy to announce the inaugural [NeurIPS 2024](https://neurips.cc/) workshop. In the wake of a disruptive year of advances in generative AI, we are bringing together the two communities for much-needed conversation. This will provide a forum to voice the concerns and proposals of creative professionals, foster mutual understanding and collaboration, and jump-start initiatives to empower them. -->
+
+We are happy to announce the inaugural [NeurIPS 2024](https://neurips.cc/) workshop **Creativity & Generative AI: A dialogue between machine learning researchers and creative professionals**. In the wake of a disruptive year of advances in generative AI, we are bringing together the two communities for much-needed conversation.
+
+We will provide a forum to voice the concerns and proposals of creative professionals, highlight existing efforts and jump-start new initiatives to empower creative communities, and foster mutual understanding and collaboration. Speakers and participants will include people who have a technical background in machine learning, as well as creative professionals who can speak to their experiences with generative AI.
 
 <!-- Welcome to the **Generative AI and Creativity** workshop at [NeurIPS 2024](https://neurips.cc/) (December 14 or 15 in Vancouver, Canada)!
 This workshop aims to bridge the gap between AI researchers and creative professionals, fostering mutual understanding and collaboration to address the impact of generative AI on creative fields. -->
@@ -129,7 +133,7 @@ TBA
     <a href="https://kenliu.name/">
     <img class="img-author" src="assets/imgs/authors/neurips2024/ken-liu.jpg" alt="Ken Liu"/></a>
     <b><br><a href="https://kenliu.name/" class="text-main">Ken Liu</a>
-    <br>Writter</b>
+    <br>Writer</b>
 </figure>
 
 <figure>
