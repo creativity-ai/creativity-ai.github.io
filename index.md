@@ -162,7 +162,7 @@ TBA
 
 ### Call for Papers
 
-We invite participants to submit 2-page papers in the NeurIPS camera-ready format (with author names visible) at our submission portal by 11:59pm **September 2**, AoE. References and any supplementary materials provided do not count as part of the 2-page limit. However, it will be at the reviewers’ discretion to read the supplementary materials.
+We invite participants to submit 2-page papers in the [NeurIPS camera-ready format](https://neurips.cc/Conferences/2024/CallForPapers) (with author names visible) at our submission portal by 11:59pm **September 2**, AoE. References and any supplementary materials provided do not count as part of the 2-page limit. However, it will be at the reviewers’ discretion to read the supplementary materials.
 
 We invite both technical contributions related to building tools aligned with the values and needs of creative professionals, as well as perspectives on broader issues in the field. Here is a non-exhaustive list of topics:
 
@@ -198,7 +198,7 @@ Submissions should consist of the following, placed within a single .zip folder 
 - Required: At least one of the following
   - A single file consisting of the artwork, named `artwork_name_main` (with appropriate file extension). (Replace `artwork_name` with the title of the piece.)
   - For works that are not film, you may submit a video of at most 1 minute demonstrating the artwork, named `artwork_name_video.mp4`; we recommend this for works that cannot easily be presented electronically, for example, a physical interactive experience.
-- Required: A description to accompany the artwork, named `artwork_name_description` in the same format as in the call for papers. This should include the title, artist bios, and **how AI was used in the creation of the work (if it was used)**. This can include a description of the creation process or discussion of themes, and will be taken into account when evaluating the submission.
+- Required: A description to accompany the artwork of at most 2 pages, named `artwork_name_description.pdf`. We recommend using the same format as in the call for papers. The description should include the title, artist bios, and **how AI was used in the creation of the work (if it was used)**. This can include a description of the creation process or discussion of themes, and will be taken into account when evaluating the submission.
 - Optional: You may submit additional files named `artwork_name_supplementary_1`, `artwork_name_supplementary_2`, etc. Note that the submission will primarily be judged by the merit of the main piece, and we will include any supplementary work in the program at our discretion.
 
 If you are not able to submit your piece conforming to the above format, please get in touch with us with a description of your work, and we can arrange an alternative way for you to submit. For example, we may ask you to submit a link if it is an interactive piece hosted on a web server. Submissions not adhering to the above guidelines will be accepted only when cleared with us.
