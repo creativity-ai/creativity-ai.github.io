@@ -63,12 +63,12 @@ The following schedule is tentative and will be confirmed closer to the workshop
 <div class="flex items-center">
     <figure class="w-1/3">
         <a href="https://en.wikipedia.org/wiki/Ted_Chiang">
-        <img class="img-author" src="assets/imgs/authors/neurips2024/ted_chiang.jpg" alt="Ted Chiang"/></a>
+        <img class="img-author" src="assets/imgs/authors/neurips2024/Ted_Chiang-Credit_Alan_Berner.JPG" alt="Ted Chiang (Credit: Alan Berner)"/></a>
         <b><br><a href="https://en.wikipedia.org/wiki/Ted_Chiang" class="text-main">Ted Chiang</a>
         <br>Writer</b>
     </figure>
 <div class="w-2/3">
-<a href="https://en.wikipedia.org/wiki/Ted_Chiang"><b>Ted Chiang</b></a> is an American science fiction writer. His work has won four Nebula awards, four Hugo awards, the John W. Campbell Award for Best New Writer, and six Locus awards. He has published the short story collections Stories of Your Life and Others (2002) and Exhalation: Stories (2019). His short story "Story of Your Life" was the basis of the film Arrival (2016). He is also a technical writer and frequent non-fiction contributor to the New Yorker Magazine, especially on topics in computing such as artificial intelligence. Photo credit: <a href="https://www.flickr.com/photos/arturovillarrubia/5494916110/">Arturo Villarrubia</a>
+<a href="https://en.wikipedia.org/wiki/Ted_Chiang"><b>Ted Chiang</b></a> is an American science fiction writer. His work has won four Nebula awards, four Hugo awards, the John W. Campbell Award for Best New Writer, and six Locus awards. He has published the short story collections Stories of Your Life and Others (2002) and Exhalation: Stories (2019). His short story "Story of Your Life" was the basis of the film Arrival (2016). He is also a technical writer and frequent non-fiction contributor to The New Yorker magazine, especially on topics in computing such as artificial intelligence. Photo credit: <a href="https://www.flickr.com/photos/arturovillarrubia/5494916110/">Arturo Villarrubia</a>
 </div>
 </div>
 
@@ -146,7 +146,7 @@ TBA
 
 <figure>
     <a href="https://eringee.net/">
-    <img class="img-author" src="assets/imgs/authors/neurips2024/ERIN-copyrightElodyLibe-WEB.jpg" alt="Nicholas Vincent"/></a>
+    <img class="img-author" src="assets/imgs/authors/neurips2024/ERIN-copyrightElodyLibe-WEB.jpg" alt="Erin Gee (Credit: Elody Libe)"/></a>
     <b><br><a href="https://eringee.net/" class="text-main">Erin Gee</a>
     <br>Music
     <br>University of Montréal</b>
