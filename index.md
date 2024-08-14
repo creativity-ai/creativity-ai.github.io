@@ -158,7 +158,7 @@ TBA
 
 ## **Call for Papers and Creative Work** {#call}
 
-**Please check back soon for the submission portal.**
+The submission portal for both calls is [here](https://cmt3.research.microsoft.com/CREATIVITYAI2024).
 
 ### Call for Papers
 
