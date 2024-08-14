@@ -68,7 +68,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
         <br>Writer</b>
     </figure>
 <div class="w-2/3">
-<a href="https://en.wikipedia.org/wiki/Ted_Chiang"><b>Ted Chiang</b></a> is an American science fiction writer. His work has won four Nebula awards, four Hugo awards, the John W. Campbell Award for Best New Writer, and six Locus awards. He has published the short story collections Stories of Your Life and Others (2002) and Exhalation: Stories (2019). His short story "Story of Your Life" was the basis of the film Arrival (2016). He is also a technical writer and frequent non-fiction contributor to The New Yorker magazine, especially on topics in computing such as artificial intelligence. Photo credit: <a href="https://www.flickr.com/photos/arturovillarrubia/5494916110/">Arturo Villarrubia</a>
+<a href="https://en.wikipedia.org/wiki/Ted_Chiang"><b>Ted Chiang</b></a> is an American science fiction writer. His work has won four Nebula awards, four Hugo awards, the John W. Campbell Award for Best New Writer, and six Locus awards. He has published the short story collections Stories of Your Life and Others (2002) and Exhalation: Stories (2019). His short story "Story of Your Life" was the basis of the film Arrival (2016). He is also a technical writer and frequent non-fiction contributor to The New Yorker magazine, especially on topics in computing such as artificial intelligence.
 </div>
 </div>
 
