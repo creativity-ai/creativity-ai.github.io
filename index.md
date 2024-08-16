@@ -23,6 +23,8 @@ The workshop will include:
 - exhibition of artwork that critically engages with the use of AI in creative endeavors and sparks conversations about our relationship with AI
 - panels and round table discussions to foster mutual understanding and collaboration.
 
+The workshop will take place in Vancouver, Canada. We are currently exploring options for virtual participation.
+
 ---
 
 ## **Important Dates** {#dates}
