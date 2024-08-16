@@ -191,6 +191,8 @@ While registration is required to attend the workshop, it will not be required t
 
 If your work is selected for inclusion in the program, you grant us non-exclusive rights to publish and reproduce the artwork. By submitting, you affirm that you are the author of the work and have the authority to grant these rights (inasmuch as possible given possible AI-assisted creation).
 
+We will award US$200 to the creators of the top artwork, as determined by our judges. The money will be split in the case that we select multiple top artworks.
+
 Please indicate whether the work has previously appeared in other venues (including online) or is currently being reviewed elsewhere. We will prioritize original submissions which have not previously appeared in other venues.
 
 Submissions should consist of the following, placed within a single .zip folder of at most 100MB:
