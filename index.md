@@ -195,7 +195,7 @@ While registration is required to attend the workshop, it will not be required t
 
 If your work is selected for inclusion in the program, you grant us non-exclusive rights to publish and reproduce the artwork. By submitting, you affirm that you are the author of the work and have the authority to grant these rights (inasmuch as possible given possible AI-assisted creation).
 
-All submissions will be considered for a up to $200 prize to recognize outstanding contributions to the artistic field of AI art.
+All submissions will be considered for a up to $200 prize to recognize outstanding contributions to the exploration of AI in art.
 
 Please indicate whether the work has previously appeared in other venues (including online) or is currently being reviewed elsewhere. We will prioritize original submissions which have not previously appeared in other venues.
 
