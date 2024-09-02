@@ -33,8 +33,7 @@ We have extended the submission deadline for papers and creative work (previousl
 
 | **Event**           | **Date**                |
 | ------------------- | ----------------------- |
-| Paper Submission Deadline | September 9, 2024       |
-| Creative Work Submission Deadline | September 19, 2024       |
+| Submission Deadline | September 16, 2024      |
 | Final Decisions     | October 9, 2024         |
 | Workshop Date       | December 14, 2024       |
 
@@ -167,7 +166,7 @@ The submission portal for both calls is [here](https://cmt3.research.microsoft.c
 
 ### Call for Papers
 
-We invite participants to submit 2-page papers in the [NeurIPS camera-ready format](https://neurips.cc/Conferences/2024/CallForPapers) (with author names visible) at our submission portal by 11:59pm **September 9**, AoE. References and any supplementary materials provided do not count as part of the 2-page limit. However, it will be at the reviewers’ discretion to read the supplementary materials.
+We invite participants to submit 2-page papers in the [NeurIPS camera-ready format](https://neurips.cc/Conferences/2024/CallForPapers) (with author names visible) at our submission portal by 11:59pm **September 16**, AoE. References and any supplementary materials provided do not count as part of the 2-page limit. However, it will be at the reviewers’ discretion to read the supplementary materials.
 
 We invite both technical contributions related to building tools aligned with the values and needs of creative professionals, as well as perspectives on broader issues in the field. Here is a non-exhaustive list of topics:
 
@@ -190,7 +189,7 @@ Submissions that have appeared in the main NeurIPS 2024 conference are allowed. 
 
 We invite creative submissions of all forms, including (and not limited to) visual art, writing, music, film, games, mathematics, and performance, that critically engage with the use of AI in creative endeavors. The work itself can be generated with or without AI tools, and can be “proof-of-concept”.
 We especially look for work that puts generative AI in context within the creative process, shows new ways of collaborating creatively with AI, and sparks conversation about our relationship with AI. Artwork will be judged based on both artistic merit and on thematic relevance.
-Submit at our submission portal by 11:59pm **September 19**, AoE.
+Submit at our submission portal by 11:59pm **September 16**, AoE.
 
 While registration is required to attend the workshop, it will not be required to have accepted artwork. A small number of creators may be selected to give an invited talk.
 
