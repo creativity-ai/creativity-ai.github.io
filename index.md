@@ -31,7 +31,7 @@ The workshop is co-located with the NeurIPS 2024 conference, a large annual AI c
 
 | **Event**           | **Date**                 |
 | ------------------- | ------------------------ |
-| Submission Deadline | September 12, 2024        |
+| Submission Deadline | September 12, 2024       |
 | Final Decisions     | October 9, 2024          |
 | Workshop Date       | December 14 and 15, 2024 |
 
@@ -98,8 +98,6 @@ is a Research Scientist at Magenta in Google DeepMind, specializing in generativ
 
 </div>
 
-## **Panelists** {#panelists}
-
 <div class="flex flex-col gap-16 mt-8 mb-8">
 <div class="flex items-center">
     <figure class="w-1/3">
@@ -129,6 +127,26 @@ is a Research Scientist at Magenta in Google DeepMind, specializing in generativ
     </figure>
 <div class="w-2/3">
 Professor <b>Edward Lee</b> is a professor at Santa Clara Law and the founder of ChatGPTiseatingtheworld.com. His current research focuses on the ways in which AI, blockchain, and other disruptive technologies challenge existing legal paradigms.
+</div>
+</div>
+
+<div class="flex items-center">
+    <figure class="w-1/3">
+        <img class="img-author" src="assets/imgs/authors/neurips2024/jillian-arnold.jpeg" alt="Jillian Arnold"/>
+        <b><br>Jillian Arnold</b>
+    </figure>
+<div class="w-2/3">
+<b>Jillian Arnold</b> is a recording and workflow engineer for live tv (Emmys, VMAs, Oscars etc). She is the president of local 695 - sound, video and projection and the IATSE AI negotiations subcommittee chair. 
+</div>
+</div>
+
+<div class="flex items-center">
+    <figure class="w-1/3">
+        <img class="img-author" src="assets/imgs/authors/neurips2024/carl-kwoh.jpg" alt="Carl Kwoh"/>
+        <b><br>Carl Kwoh</b>
+    </figure>
+<div class="w-2/3">
+<b>Carl Kwoh</b> is CEO of Jam & Tea Studios, making games with generative ai as an engine for Improvisational Play between players. He's worked in the games industry for 20+ years at companies like Riot Games, Popcap Games, and Phoenix Labs
 </div>
 </div>
 
