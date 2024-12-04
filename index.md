@@ -1,12 +1,12 @@
 ---
 layout: default
-title: NeurIPS 2024 Workshop on Creativity & Generative AI
+title: Workshop on Creativity & Generative AI
 description: A dialogue between machine learning researchers and creative professionals
 ---
 
 <!-- We are happy to announce the inaugural [NeurIPS 2024](https://neurips.cc/) workshop. In the wake of a disruptive year of advances in generative AI, we are bringing together the two communities for much-needed conversation. This will provide a forum to voice the concerns and proposals of creative professionals, foster mutual understanding and collaboration, and jump-start initiatives to empower them. -->
 
-We are happy to announce the inaugural [NeurIPS 2024](https://neurips.cc/) workshop **Creativity & Generative AI: A dialogue between machine learning researchers and creative professionals**. In the wake of a disruptive year of advances in generative AI, we are bringing together the two communities for much-needed conversation.
+Join us for the 2024 Workshop on **Creativity & Generative AI: A dialogue between machine learning researchers and creative professionals**. In the wake of a disruptive year of advances in generative AI, we are bringing together the two communities for much-needed conversation.
 
 We will provide a forum to voice the concerns and proposals of creative professionals, highlight existing efforts and jump-start new initiatives to empower creative communities, and foster mutual understanding and collaboration. Speakers and participants will include people who have a technical background in machine learning, as well as creative professionals who can speak to their experiences with generative AI.
 
@@ -23,17 +23,17 @@ The workshop will include:
 - exhibition of artwork that critically engages with the use of AI in creative endeavors and sparks conversations about our relationship with AI
 - panels and round table discussions to foster mutual understanding and collaboration.
 
-The workshop will take place in Vancouver, Canada. We are currently exploring options for virtual participation.
+The workshop is co-located with the NeurIPS 2024 conference, a large annual AI conference, and will take place in Vancouver, Canada.
 
 ---
 
 ## **Important Dates** {#dates}
 
-| **Event**           | **Date**                |
-| ------------------- | ----------------------- |
-| Submission Deadline | September 2, 2024       |
-| Final Decisions     | October 9, 2024         |
-| Workshop Date       | December 14 or 15, 2024 |
+| **Event**           | **Date**                 |
+| ------------------- | ------------------------ |
+| Submission Deadline | September 2, 2024        |
+| Final Decisions     | October 9, 2024          |
+| Workshop Date       | December 14 and 15, 2024 |
 
 ---
 
@@ -41,21 +41,30 @@ The workshop will take place in Vancouver, Canada. We are currently exploring op
 
 The following schedule is tentative and will be confirmed closer to the workshop:
 
-|    **Time** | **Topic**                    | **Speaker(s)/Presenter(s)** |
-| ----------: | :--------------------------- | :-------------------------- |
-|   9:00-9:15 | Intro                        |                             |
-|   9:15-9:45 | Invited Talk 1               | TBA                         |
-|  9:45-10:15 | Invited Talk 2               | TBA                         |
-| 10:15-10:45 | In Conversation              | TBA                         |
-| 10:45-11:00 | Coffee Break                 |                             |
-| 11:00-12:00 | Contributed Talks (4x15min)  | TBA                         |
-| 12:00-14:00 | Lunch Break & Poster Session |                             |
-| 14:00-14:30 | Invited Talk 3               | TBA                         |
-| 14:30-15:00 | Invited Talk 4               | TBA                         |
-| 15:00-15:30 | Invited Talk 5               | TBA                         |
-| 15:30-16:00 | Coffee Break                 |                             |
-| 16:00-17:00 | Panel Discussion             | TBA                         |
-| 17:00-18:00 | Round Table Discussions      | TBA                         |
+### Saturday
+
+|    **Time** | **Topic**                | **Speaker(s)/Presenter(s)**             | **Location**                |
+| ----------: | :----------------------- | :-------------------------------------- | :-------------------------- |
+|   9:00-9:15 | Intro                    |                                         | 201 room (NeurIPS) + Online |
+|   9:15-9:45 | Invited Talk             | Anna Huang                              | 201 room (NeurIPS) + Online |
+|  9:45-10:15 | Pannel on AI & Copyright | A. Feder Cooper, Edward Lee, Ben Brooks | 201 room (NeurIPS) + Online |
+| 10:15-10:45 | Coffee Break             |                                         | 201 room (NeurIPS) + Online |
+| 10:45-11:30 | Contributed Talks        |                                         | 201 room (NeurIPS) + Online |
+| 11:30-12:30 | Poster Session           |                                         | 201 room (NeurIPS)          |
+| 12:30-13:30 | Lunch Break              |                                         |                             |
+| 13:30-14:00 | Icebreaker               |                                         |                             |
+| 14:00-14:30 | Invited Talk             | Ted Chiang                              | Pinnacle Hotel + Online     |
+| 14:30-15:30 | Mini Talks               | TBA                                     | Pinnacle Hotel + Online     |
+| 15:30-16:00 | AMA                      |                                         | Pinnacle Hotel + Online     |
+| 16:00-16:30 | Coffee Break             |                                         | Pinnacle Hotel + Online     |
+| 16:30-17:30 | Round Table Discussions  | TBA                                     | Pinnacle Hotel + Online     |
+| 17:30-18:00 | Closing Remarks          |                                         |                             |
+
+### Sunday
+
+|   **Time** | **Topic**                    | **Speaker(s)/Presenter(s)** | **Location**   |
+| ---------: | :--------------------------- | :-------------------------- | :------------- |
+| 9:00-14:00 | Detailed schedule to come... |                             | Pinnacle Hotel |
 
 ---
 
@@ -86,12 +95,44 @@ The following schedule is tentative and will be confirmed closer to the workshop
 is a Research Scientist at Magenta in Google DeepMind, specializing in generative models and human-AI partnerships in music creation. She developed Coconet, powering Google's first AI Doodle, and Music Transformer, a pioneering model for long-term music generation. She holds a Canada CIFAR AI Chair at Mila, serves as an adjunct professor at the University of Montreal, and has been involved in the AI Song Contest. Her research focuses on designing interactive generative AI systems to enhance music creation, emphasizing interpretability, explainability, and social reinforcement learning.
 </div>
 </div>
+
 </div>
----
 
 ## **Panelists** {#panelists}
 
-TBA
+<div class="flex flex-col gap-16 mt-8 mb-8">
+<div class="flex items-center">
+    <figure class="w-1/3">
+        <img class="img-author" src="assets/imgs/authors/neurips2024/a-feder-cooper.png" alt="A. Feder Cooper"/>
+        <b><br>A. Feder Cooper</b>
+    </figure>
+<div class="w-2/3">
+<b>A. Feder Cooper</b> is a scalable machine-learning (ML) researcher, co-founder of The GenLaw Center, and an incoming Professor of Computer Science at Yale University. Cooper's contributions span uncertainty estimation, privacy and security of generative-AI systems, distributed training, hyperparameter optimization, and model selection. Cooper also does work in tech policy and law, and spends a lot of time finding ways to effectively communicate the capabilities and limits of AI/ML to interdisciplinary audiences and the public
+
+</div>
+</div>
+
+<div class="flex items-center">
+    <figure class="w-1/3">
+        <img class="img-author" src="assets/imgs/authors/neurips2024/ben-brooks.png" alt="Ben Brooks"/>
+        <b><br> Ben Brooks</b>
+    </figure>
+<div class="w-2/3">
+<b>Ben Brooks</b> is a Fellow at the Berkman Klein Center, Harvard, where he scrutinizes the regulatory and legislative response to AI models. Previously, he served as Head of Public Policy for Stability AI, custodian of Stable Diffusion, and drove regulatory development efforts at GoogleX, Uber, and Coinbase, working with authorities on the ground in over 25 countries.
+</div>
+</div>
+
+<div class="flex items-center">
+    <figure class="w-1/3">
+        <img class="img-author" src="assets/imgs/authors/neurips2024/edward-lee.png" alt="Edward Lee"/>
+        <b><br>Edward Lee</b>
+    </figure>
+<div class="w-2/3">
+Professor <b>Edward Lee</b> is a professor at Santa Clara Law and the founder of ChatGPTiseatingtheworld.com. His current research focuses on the ways in which AI, blockchain, and other disruptive technologies challenge existing legal paradigms.
+</div>
+</div>
+
+</div>
 
 ---
 
