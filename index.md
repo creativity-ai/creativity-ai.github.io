@@ -142,6 +142,16 @@ Professor <b>Edward Lee</b> is a professor at Santa Clara Law and the founder of
 
 <div class="flex items-center">
     <figure class="w-1/3">
+        <img class="img-author" src="assets/imgs/authors/neurips2024/Jingna-Zhang.jpg" alt="Jingna Zhang"/>
+        <b><br>Jingna Zhang</b>
+    </figure>
+<div class="w-2/3">
+<b>Jingna Zhang</b> is the founder of Cara, a social and portfolio-sharing app for artists and fans with more than a million users in its beta. Prior to Cara, Jingna was an award-winning fashion and fine art photographer for magazines like Vogue, Elle, and Harper’s Bazaar, the founder of an esports team in StarCraft II, and a Singapore Olympic team candidate in air rifle. She works at the intersection of art and technology, advocating for creative rights and responsible AI development.
+</div>
+</div>
+
+<div class="flex items-center">
+    <figure class="w-1/3">
         <img class="img-author" src="assets/imgs/authors/neurips2024/carl-kwoh.jpg" alt="Carl Kwoh"/>
         <b><br>Carl Kwoh</b>
     </figure>
