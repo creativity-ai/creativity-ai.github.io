@@ -164,6 +164,33 @@ Professor <b>Edward Lee</b> is a professor at Santa Clara Law and the founder of
 
 ---
 
+## **Accepted papers** {#papers}
+
+List of accepted papers:
+
+- [**Deepfake Detection using Parallel Vision Transformers**](assets/papers/5.pdf), B Chetan Kumar and Shylaja S S
+- [**Rethinking Artificial Intelligence creativity and ideation systems**](assets/papers/12.pdf), Steve DiPaola
+- [**Alien Recombination: Exploring Concept Compositions Beyond Human Cognitive Availability in Visual Art**](assets/papers/16.pdf), Alejandro Hernandez, Levin Brinkmann, Ignacio Serna, Nasim Rahaman, Hassan Abu Alhaija, Hiromu Yakura, Mar Canet Sola, Bernhard Schölkopf, Iyad Rahwan
+- [**FicSim: An Ethically Constructed Dataset for Long-Context Semantic Similarity Comparison within Fiction**](assets/papers/21.pdf), Natasha Johnson, Amanda Bertsch, Emma Strubell
+- [**Composers’ Evaluations of an AI Music Tool: Insights for Human-Centered Design**](assets/papers/23.pdf), Eleanor Row, George Fazekas
+- [**Copiloting Creative 3D Scene Modeling and Visualization with Generative Agents**](assets/papers/39.pdf), Yiqin Zhao, Yu Shen, Stefano Petrangeli, Matheus Gadelha, Cuong Nguyen, Gang Wu
+- [**My Voice, Your Voice, Our Voice: Attitudes Towards Collective Governance of a Choral AI Dataset**](assets/papers/41.pdf), Jennifer Ding, Eva Jäger, Victoria Ivanova, Mercedes Bunz
+- [**Narrative Information Theory**](assets/papers/42.pdf), Lion Schulz, Miguel Patrício, Daan Odijk
+- [**Show, Don’t Tell: Uncovering Implicit Character Portrayal using LLMs**](assets/papers/46.pdf), Brandon Jaipersaud, Zining Zhu, Frank Rudzicz, Elliot Creager
+- [**Denoising Monte Carlo Renders with Diffusion Models**](assets/papers/48.pdf), Vaibhav Vavilala, Rahul Vasanth, David Forsyth
+- [**Autolume: A GAN-based No-Code AI Tool for Art Creation**](assets/papers/49.pdf), Arshia Sobhan, Ahmed M. Abuzuraiq, Philippe Pasquier
+- [**PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music Processing**](assets/papers/53.pdf), Phillip Long, Zachary Novack, Taylor Berg-Kirkpatrick, Julian McAuley
+- [**Automated Black-box Prompt Engineering for Personalized Text-to-Image Generation**](assets/papers/54.pdf), Yutong He, Alexander Robey, Naoki Murata, Yiding Jiang, Joshua Williams, George Pappas, Hamed Hassani, Yuki Mitsufuji, Ruslan Salakhutdinov, J. Zico Kolter
+- [**Real-Time Neuro-Augmented Cinema via Generative AI**](assets/papers/55.pdf), Antoine Bellemare-Pepin, Philipp Thölke, Yann Harel, Karim Jerbi
+- [**Iterative Optimization of SDS Loss for Video Generation from Multi-Object Sketches**](assets/papers/56.pdf), Donghun Kim, Changho Choi, Junmo Kim
+- [**Localized Text-to-Image Generation For Free via Cross Attention Control**](assets/papers/58.pdf), Yutong He, Ruslan Salakhutdinov, J. Zico Kolter
+- [**An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion**](assets/papers/62.pdf), Xingguang Yan, Han-Hung Lee, Ziyu Wan, Angel X. Chang
+- [**Musical Agent Systems: MACAT and MACataRT**](assets/papers/64.pdf), Keon Ju Lee, Philippe Pasquier
+- [**Steering LLMs to Evaluate and Amplify Creativity**](assets/papers/67.pdf), Matthew Lyle Olson, Neale Ratzlaff, Musashi Hinck, Shao-yen Tseng, Vasudev Lal
+- [**ComicCamp: A Framework for Comic-Style Campaign Narration**](assets/papers/70.pdf), Ashutosh Ranjan, Vivek Srivastava, Shirish Karande
+
+---
+
 ## **Organizers** {#organizers}
 
 <div class="container">
