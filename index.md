@@ -57,7 +57,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
 | 14:15-14:45 | Invited Talk                   | Ted Chiang                                              | Pinnacle Hotel + Online     |
 | 14:45-15:15 | Coffee Break                   |                                                         | Pinnacle Hotel              |
 | 15:15-15:30 | Icebreaker                     |                                                         | Pinnacle Hotel + Online     |
-| 15:30-16:00 | Mini Talks                     | Carl Kwoh                                               | Pinnacle Hotel + Online     |
+| 15:30-16:00 | Mini Talks                     | Carl Kwoh, Jingna Zhang                                 | Pinnacle Hotel + Online     |
 | 16:00-17:30 | Round Table Discussions        |                                                         | Pinnacle Hotel + Online     |
 | 17:30-17:45 | Closing Remarks                |                                                         | Pinnacle Hotel + Online     |
 | 17:45-19:30 | Dinner                         |                                                         | Pinnacle Hotel              |
