@@ -43,22 +43,24 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 ### Saturday
 
-|    **Time** | **Topic**                | **Speaker(s)/Presenter(s)**             | **Location**                |
-| ----------: | :----------------------- | :-------------------------------------- | :-------------------------- |
-|   9:00-9:15 | Intro                    |                                         | 201 room (NeurIPS) + Online |
-|   9:15-9:45 | Invited Talk             | Anna Huang                              | 201 room (NeurIPS) + Online |
-|  9:45-10:15 | Pannel on AI & Copyright | A. Feder Cooper, Edward Lee, Ben Brooks | 201 room (NeurIPS) + Online |
-| 10:15-10:45 | Coffee Break             |                                         | 201 room (NeurIPS) + Online |
-| 10:45-11:30 | Contributed Talks        |                                         | 201 room (NeurIPS) + Online |
-| 11:30-12:30 | Poster Session           |                                         | 201 room (NeurIPS)          |
-| 12:30-13:30 | Lunch Break              |                                         |                             |
-| 13:30-14:00 | Icebreaker               |                                         |                             |
-| 14:00-14:30 | Invited Talk             | Ted Chiang                              | Pinnacle Hotel + Online     |
-| 14:30-15:30 | Mini Talks               | TBA                                     | Pinnacle Hotel + Online     |
-| 15:30-16:00 | AMA                      |                                         | Pinnacle Hotel + Online     |
-| 16:00-16:30 | Coffee Break             |                                         | Pinnacle Hotel + Online     |
-| 16:30-17:30 | Round Table Discussions  | TBA                                     | Pinnacle Hotel + Online     |
-| 17:30-18:00 | Closing Remarks          |                                         |                             |
+|    **Time** | **Topic**                      | **Speaker(s)/Presenter(s)**                             | **Location**                |
+| ----------: | :----------------------------- | :------------------------------------------------------ | :-------------------------- |
+|   8:45-9:00 | Intro / Opening Remarks        |                                                         | 201 room (NeurIPS) + Online |
+|   9:00-9:30 | Invited Talk                   | Anna Huang                                              | 201 room (NeurIPS) + Online |
+|  9:30-10:00 | Coffee Break                   |                                                         | 201 room (NeurIPS)          |
+| 10:00-10:30 | Invited Talk                   | Kelly McKernan                                          | 201 room (NeurIPS) + Online |
+| 10:30-11:15 | Pannel on AI & Copyright       | A. Feder Cooper, Edward Lee, Ben Brooks, Jillian Arnold | 201 room (NeurIPS) + Online |
+| 11:15-11:45 | Contributed Talks              |                                                         | 201 room (NeurIPS) + Online |
+| 11:45-13:00 | Lunch Break                    |                                                         |                             |
+| 13:00-14:00 | Poster Session                 |                                                         | 201 room (NeurIPS)          |
+| 14:00-14:15 | Break / Move to Pinnacle Hotel |                                                         |                             |
+| 14:15-14:45 | Invited Talk                   | Ted Chiang                                              | Pinnacle Hotel + Online     |
+| 14:45-15:15 | Coffee Break                   |                                                         | Pinnacle Hotel              |
+| 15:15-15:30 | Icebreaker                     |                                                         | Pinnacle Hotel + Online     |
+| 15:30-16:00 | Mini Talks                     | Carl Kwoh                                               | Pinnacle Hotel + Online     |
+| 16:00-17:30 | Round Table Discussions        |                                                         | Pinnacle Hotel + Online     |
+| 17:30-17:45 | Closing Remarks                |                                                         | Pinnacle Hotel + Online     |
+| 17:45-19:30 | Dinner                         |                                                         | Pinnacle Hotel              |
 
 ### Sunday
 
@@ -166,28 +168,44 @@ Professor <b>Edward Lee</b> is a professor at Santa Clara Law and the founder of
 
 ## **Accepted papers** {#papers}
 
-List of accepted papers:
+- [Deepfake Detection using Parallel Vision Transformers](assets/papers/5.pdf)
+- [Rethinking Artificial Intelligence creativity and ideation systems](assets/papers/12.pdf)
+- [Alien Recombination: Exploring Concept Compositions Beyond Human Cognitive Availability in Visual Art](assets/papers/16.pdf)
+- [FicSim: An Ethically Constructed Dataset for Long-Context Semantic Similarity Comparison within Fiction](assets/papers/21.pdf)
+- [Composers’ Evaluations of an AI Music Tool: Insights for Human-Centered Design](assets/papers/23.pdf)
+- [Copiloting Creative 3D Scene Modeling and Visualization with Generative Agents](assets/papers/39.pdf)
+- [My Voice, Your Voice, Our Voice: Attitudes Towards Collective Governance of a Choral AI Dataset](assets/papers/41.pdf)
+- [Narrative Information Theory](assets/papers/42.pdf)
+- [Show, Don’t Tell: Uncovering Implicit Character Portrayal using LLMs](assets/papers/46.pdf)
+- [Denoising Monte Carlo Renders with Diffusion Models](assets/papers/48.pdf)
+- [Autolume: A GAN-based No-Code AI Tool for Art Creation](assets/papers/49.pdf)
+- [PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music Processing](assets/papers/53.pdf)
+- [Automated Black-box Prompt Engineering for Personalized Text-to-Image Generation](assets/papers/54.pdf)
+- [Real-Time Neuro-Augmented Cinema via Generative AI](assets/papers/55.pdf)
+- [Iterative Optimization of SDS Loss for Video Generation from Multi-Object Sketches](assets/papers/56.pdf)
+- [Localized Text-to-Image Generation For Free via Cross Attention Control](assets/papers/58.pdf)
+- [An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion](assets/papers/62.pdf)
+- [Steering LLMs to Evaluate and Amplify Creativity](assets/papers/67.pdf)
+- [ComicCamp: A Framework for Comic-Style Campaign Narration](assets/papers/70.pdf)
 
-- [**Deepfake Detection using Parallel Vision Transformers**](assets/papers/5.pdf), B Chetan Kumar and Shylaja S S
-- [**Rethinking Artificial Intelligence creativity and ideation systems**](assets/papers/12.pdf), Steve DiPaola
-- [**Alien Recombination: Exploring Concept Compositions Beyond Human Cognitive Availability in Visual Art**](assets/papers/16.pdf), Alejandro Hernandez, Levin Brinkmann, Ignacio Serna, Nasim Rahaman, Hassan Abu Alhaija, Hiromu Yakura, Mar Canet Sola, Bernhard Schölkopf, Iyad Rahwan
-- [**FicSim: An Ethically Constructed Dataset for Long-Context Semantic Similarity Comparison within Fiction**](assets/papers/21.pdf), Natasha Johnson, Amanda Bertsch, Emma Strubell
-- [**Composers’ Evaluations of an AI Music Tool: Insights for Human-Centered Design**](assets/papers/23.pdf), Eleanor Row, George Fazekas
-- [**Copiloting Creative 3D Scene Modeling and Visualization with Generative Agents**](assets/papers/39.pdf), Yiqin Zhao, Yu Shen, Stefano Petrangeli, Matheus Gadelha, Cuong Nguyen, Gang Wu
-- [**My Voice, Your Voice, Our Voice: Attitudes Towards Collective Governance of a Choral AI Dataset**](assets/papers/41.pdf), Jennifer Ding, Eva Jäger, Victoria Ivanova, Mercedes Bunz
-- [**Narrative Information Theory**](assets/papers/42.pdf), Lion Schulz, Miguel Patrício, Daan Odijk
-- [**Show, Don’t Tell: Uncovering Implicit Character Portrayal using LLMs**](assets/papers/46.pdf), Brandon Jaipersaud, Zining Zhu, Frank Rudzicz, Elliot Creager
-- [**Denoising Monte Carlo Renders with Diffusion Models**](assets/papers/48.pdf), Vaibhav Vavilala, Rahul Vasanth, David Forsyth
-- [**Autolume: A GAN-based No-Code AI Tool for Art Creation**](assets/papers/49.pdf), Arshia Sobhan, Ahmed M. Abuzuraiq, Philippe Pasquier
-- [**PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music Processing**](assets/papers/53.pdf), Phillip Long, Zachary Novack, Taylor Berg-Kirkpatrick, Julian McAuley
-- [**Automated Black-box Prompt Engineering for Personalized Text-to-Image Generation**](assets/papers/54.pdf), Yutong He, Alexander Robey, Naoki Murata, Yiding Jiang, Joshua Williams, George Pappas, Hamed Hassani, Yuki Mitsufuji, Ruslan Salakhutdinov, J. Zico Kolter
-- [**Real-Time Neuro-Augmented Cinema via Generative AI**](assets/papers/55.pdf), Antoine Bellemare-Pepin, Philipp Thölke, Yann Harel, Karim Jerbi
-- [**Iterative Optimization of SDS Loss for Video Generation from Multi-Object Sketches**](assets/papers/56.pdf), Donghun Kim, Changho Choi, Junmo Kim
-- [**Localized Text-to-Image Generation For Free via Cross Attention Control**](assets/papers/58.pdf), Yutong He, Ruslan Salakhutdinov, J. Zico Kolter
-- [**An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion**](assets/papers/62.pdf), Xingguang Yan, Han-Hung Lee, Ziyu Wan, Angel X. Chang
-- [**Musical Agent Systems: MACAT and MACataRT**](assets/papers/64.pdf), Keon Ju Lee, Philippe Pasquier
-- [**Steering LLMs to Evaluate and Amplify Creativity**](assets/papers/67.pdf), Matthew Lyle Olson, Neale Ratzlaff, Musashi Hinck, Shao-yen Tseng, Vasudev Lal
-- [**ComicCamp: A Framework for Comic-Style Campaign Narration**](assets/papers/70.pdf), Ashutosh Ranjan, Vivek Srivastava, Shirish Karande
+---
+
+## **Accepted artworks** {#artworks}
+
+- [GoGo Musebots: Generative Music for Robotic Instruments and Human performers](assets/artworks/3.pdf)
+- [Spectra](assets/artworks/6_description.pdf)
+- [mind-meld](assets/artworks/8_description.pdf)
+- [La Solitudine delle Moltitudini (The Solitude of the Multitudes)](assets/artworks/9_description.pdf)
+- [Regenerate](assets/artworks/10_main.pdf) (see [description](assets/artworks/10_description.pdf))
+- [Forrest Dance](assets/artworks/13_description.pdf)
+- [Immaculate Conception Inc.: A Journey Through the Future of Birth](assets/artworks/24_description.pdf)
+- [The Tale of Punyakoti: An AI-Enhanced Audio Experience](assets/artworks/29_description.pdf)
+- [Walter Benjamin’s The Destructive Character AI-fication](assets/artworks/47_main.pdf) (see [description](assets/artworks/47_description.pdf))
+- [Typologies](assets/artworks/51_main.pdf) (see [description](assets/artworks/51_description.pdf))
+- [Ecotones of the Mind](assets/artworks/60_description.pdf)
+- [Elyra Vunaris Presents the Music of Varexia](assets/artworks/65_description.pdf)
+- [Revival: Collaborative Artistic Creation through Human-AI Interactions in Musical Creativity](assets/artworks/66_description.pdf)
+- [Navigating Neural Fields with Vision-Language Models](assets/artworks/69_description.pdf)
 
 ---
 
