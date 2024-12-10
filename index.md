@@ -176,6 +176,7 @@ Professor <b>Edward Lee</b> is a professor at Santa Clara Law and the founder of
 - [Copiloting Creative 3D Scene Modeling and Visualization with Generative Agents](assets/papers/39.pdf)
 - [My Voice, Your Voice, Our Voice: Attitudes Towards Collective Governance of a Choral AI Dataset](assets/papers/41.pdf)
 - [Narrative Information Theory](assets/papers/42.pdf)
+- [Collaborative Creativity – Sparking Human Creativity in Brainstorming Sessions with an AI Muse](assets/papers/45.pdf)
 - [Show, Don’t Tell: Uncovering Implicit Character Portrayal using LLMs](assets/papers/46.pdf)
 - [Denoising Monte Carlo Renders with Diffusion Models](assets/papers/48.pdf)
 - [Autolume: A GAN-based No-Code AI Tool for Art Creation](assets/papers/49.pdf)
@@ -185,6 +186,7 @@ Professor <b>Edward Lee</b> is a professor at Santa Clara Law and the founder of
 - [Iterative Optimization of SDS Loss for Video Generation from Multi-Object Sketches](assets/papers/56.pdf)
 - [Localized Text-to-Image Generation For Free via Cross Attention Control](assets/papers/58.pdf)
 - [An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion](assets/papers/62.pdf)
+- [Musical Agent Systems: MACAT and MACataRT](assets/papers/64.pdf)
 - [Steering LLMs to Evaluate and Amplify Creativity](assets/papers/67.pdf)
 - [ComicCamp: A Framework for Comic-Style Campaign Narration](assets/papers/70.pdf)
 
