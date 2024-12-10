@@ -43,24 +43,23 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 ### Saturday
 
-|    **Time** | **Topic**                      | **Speaker(s)/Presenter(s)**                             | **Location**                |
-| ----------: | :----------------------------- | :------------------------------------------------------ | :-------------------------- |
-|   8:45-9:00 | Intro / Opening Remarks        |                                                         | 201 room (NeurIPS) + Online |
-|   9:00-9:30 | Invited Talk                   | Anna Huang                                              | 201 room (NeurIPS) + Online |
-|  9:30-10:00 | Coffee Break                   |                                                         | 201 room (NeurIPS)          |
-| 10:00-10:30 | Invited Talk                   | Kelly McKernan                                          | 201 room (NeurIPS) + Online |
-| 10:30-11:15 | Pannel on AI & Copyright       | A. Feder Cooper, Edward Lee, Ben Brooks, Jillian Arnold | 201 room (NeurIPS) + Online |
-| 11:15-11:45 | Contributed Talks              |                                                         | 201 room (NeurIPS) + Online |
-| 11:45-13:00 | Lunch Break                    |                                                         |                             |
-| 13:00-14:00 | Poster Session                 |                                                         | 201 room (NeurIPS)          |
-| 14:00-14:15 | Break / Move to Pinnacle Hotel |                                                         |                             |
-| 14:15-14:45 | Invited Talk                   | Ted Chiang                                              | Pinnacle Hotel + Online     |
-| 14:45-15:15 | Coffee Break                   |                                                         | Pinnacle Hotel              |
-| 15:15-15:30 | Icebreaker                     |                                                         | Pinnacle Hotel + Online     |
-| 15:30-16:00 | Mini Talks                     | Carl Kwoh, Jingna Zhang                                 | Pinnacle Hotel + Online     |
-| 16:00-17:30 | Round Table Discussions        |                                                         | Pinnacle Hotel + Online     |
-| 17:30-17:45 | Closing Remarks                |                                                         | Pinnacle Hotel + Online     |
-| 17:45-19:30 | Dinner                         |                                                         | Pinnacle Hotel              |
+|    **Time** | **Topic**                      | **Speaker(s)/Presenter(s)**                                             | **Location**                |
+| ----------: | :----------------------------- | :---------------------------------------------------------------------- | :-------------------------- |
+|   8:45-9:00 | Intro / Opening Remarks        |                                                                         | 201 room (NeurIPS) + Online |
+|   9:00-9:15 | Invited Talk                   | Jillian Arnold                                                          | 201 room (NeurIPS) + Online |
+|   9:15-9:45 | Invited Talk                   | Kelly McKernan                                                          | 201 room (NeurIPS) + Online |
+|  9:45-10:15 | Coffee Break                   |                                                                         | 201 room (NeurIPS)          |
+| 10:15-11:15 | Pannel on AI & Copyright       | A. Feder Cooper, Edward Lee, Ben Brooks, Jillian Arnold, Kelly McKernan | 201 room (NeurIPS) + Online |
+| 11:15-11:45 | Contributed Talks              |                                                                         | 201 room (NeurIPS) + Online |
+| 11:45-13:00 | Lunch Break                    |                                                                         |                             |
+| 13:00-14:00 | Poster Session                 |                                                                         | 201 room (NeurIPS)          |
+| 14:00-14:15 | Break / Move to Pinnacle Hotel |                                                                         |                             |
+| 14:15-14:45 | Invited Talk                   | Ted Chiang                                                              | Pinnacle Hotel + Online     |
+| 14:45-15:30 | Coffee Break / Icebreaker      |                                                                         | Pinnacle Hotel              |
+| 15:30-16:00 | Mini Talks                     | Carl Kwoh, Jingna Zhang                                                 | Pinnacle Hotel + Online     |
+| 16:00-17:30 | Round Table Discussions        |                                                                         | Pinnacle Hotel + Online     |
+| 17:30-17:45 | Closing Remarks                |                                                                         | Pinnacle Hotel + Online     |
+| 18:00-21:00 | Dinner                         |                                                                         | Pinnacle Hotel              |
 
 ### Sunday
 
