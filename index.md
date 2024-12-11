@@ -43,23 +43,24 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 ### Saturday
 
-|    **Time** | **Topic**                               | **Speaker(s)/Presenter(s)**                                                                                                                 | **Location**                |
-| ----------: | :-------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------- |
-|   8:45-9:00 | Intro / Opening Remarks                 |                                                                                                                                             | 201 room (NeurIPS) + Online |
-|   9:00-9:15 | Invited Talk                            | [Jillian Arnold](#jillian-arnold)                                                                                                           | 201 room (NeurIPS) + Online |
-|   9:15-9:45 | Keynote Talk                            | Kelly McKernan                                                                                                                              | 201 room (NeurIPS) + Online |
-|  9:45-10:15 | Coffee Break                            |                                                                                                                                             | 201 room (NeurIPS)          |
-| 10:15-11:15 | Pannel on AI & Copyright                | [A. Feder Cooper](#a-feder-cooper), [Edward Lee](#edward-lee), [Ben Brooks](#ben-brooks), [Jillian Arnold](#jillian-arnold), Kelly McKernan | 201 room (NeurIPS) + Online |
-| 11:15-11:45 | Contributed Talks                       |                                                                                                                                             | 201 room (NeurIPS) + Online |
-| 11:45-13:00 | Lunch Break                             |                                                                                                                                             |                             |
-| 13:00-14:00 | Poster Session                          |                                                                                                                                             | 201 room (NeurIPS)          |
-| 14:00-14:15 | Break / Move to Pinnacle Hotel          |                                                                                                                                             |                             |
-| 14:15-14:45 | Keynote Talk                            | [Ted Chiang](#ted-chiang)                                                                                                                   | Pinnacle Hotel + Online     |
-| 14:45-15:30 | Coffee Break / Icebreaker               |                                                                                                                                             | Pinnacle Hotel              |
-| 15:30-16:00 | Invited Talks                           | [Carl Kwoh](#carl-kwoh), [Jingna Zhang](#jingna-zhang)                                                                                      | Pinnacle Hotel + Online     |
-| 16:00-17:30 | [Round Table Discussions](#roundtables) |                                                                                                                                             | Pinnacle Hotel + Online     |
-| 17:30-17:45 | Closing Remarks                         |                                                                                                                                             | Pinnacle Hotel + Online     |
-| 18:00-21:00 | Dinner                                  |                                                                                                                                             | Pinnacle Hotel              |
+|    **Time** | **Topic**                                               | **Speaker(s)/Presenter(s)**                                                                                                                 | **Location**                |
+| ----------: | :------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------- |
+|   8:45-9:00 | Intro / Opening Remarks                                 |                                                                                                                                             | 201 room (NeurIPS) + Online |
+|   9:00-9:15 | AI in Hollywood: Acts 1 & 2                             | [Jillian Arnold](#jillian-arnold)                                                                                                           | 201 room (NeurIPS) + Online |
+|   9:15-9:45 | Keynote Talk                                            | Kelly McKernan                                                                                                                              | 201 room (NeurIPS) + Online |
+|  9:45-10:15 | Coffee Break                                            |                                                                                                                                             | 201 room (NeurIPS)          |
+| 10:15-11:15 | Pannel on AI & Copyright                                | [A. Feder Cooper](#a-feder-cooper), [Edward Lee](#edward-lee), [Ben Brooks](#ben-brooks), [Jillian Arnold](#jillian-arnold), Kelly McKernan | 201 room (NeurIPS) + Online |
+| 11:15-11:45 | Contributed Talks                                       |                                                                                                                                             | 201 room (NeurIPS) + Online |
+| 11:45-13:00 | Lunch Break                                             |                                                                                                                                             |                             |
+| 13:00-14:00 | Poster Session                                          |                                                                                                                                             | 201 room (NeurIPS)          |
+| 14:00-14:15 | Break / Move to Pinnacle Hotel                          |                                                                                                                                             |                             |
+| 14:15-14:45 | Keynote Talk                                            | [Ted Chiang](#ted-chiang)                                                                                                                   | Pinnacle Hotel + Online     |
+| 14:45-15:30 | Coffee Break / Icebreaker                               |                                                                                                                                             | Pinnacle Hotel              |
+| 15:30-15:45 | Invited Talks                                           | [Carl Kwoh](#carl-kwoh)                                                                                                                     | Pinnacle Hotel + Online     |
+| 15:45-16:00 | Photography, Go, and Copyright: a Creator's Perspective | [Jingna Zhang](#jingna-zhang)                                                                                                               | Pinnacle Hotel + Online     |
+| 16:00-17:30 | [Round Table Discussions](#roundtables)                 |                                                                                                                                             | Pinnacle Hotel + Online     |
+| 17:30-17:45 | Closing Remarks                                         |                                                                                                                                             | Pinnacle Hotel + Online     |
+| 18:00-21:00 | Dinner                                                  |                                                                                                                                             | Pinnacle Hotel              |
 
 ### Sunday
 
@@ -184,7 +185,8 @@ _Moderator: Isabelle Levent_
 What do we mean when we talk about “creativity?” Sometimes described by features of its product, process, or in relation to specific tasks, creativity lacks a standard definition. In our roundtable, we will discuss various definitions of creativity and how they inform different approaches to creative tooling.
 
 **Impact of generative AI on photography and entertainment art industries**  
-_Moderator: Jingna Zhang_
+_Moderator: Jingna Zhang_  
+This roundtable will examine generative AI's impact across creative fields in fashion and commercial photography, film, publishing, and video game productions. We will discuss current trends in both research and market adoption, explore the different interests, concerns, and challenges of those in the ecosystem, and discuss recommendations that include consideration for creator protections going forward.
 
 **Exploring the side affects of AI on Creativity & Labor: the pros, the cons, the issues we never think about**  
 _Moderator: Jillian Arnold_  
