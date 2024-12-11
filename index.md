@@ -251,18 +251,9 @@ At a time when a) politics pretty much everywhere is swinging to the far right, 
 
 ## **Directions to Pinnacle Hotel from NeurIPS Convention Center** {#directions}
 
-<div class="flex flex-col items-center">
-<iframe
- class="w-full"
-  height="450"
-  frameborder="0" style="border:0"
-  referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.com/maps/embed/v1/place
-  ?key=AIzaSyCSpqwDWdwOLuQBVBTLx7C7Mxv3Z4NakZQ
-  &q=Eiffel+Tower,Paris+France"
-  allowfullscreen>
-</iframe>
-</div>
+The Pinnacle Hotel is a 6-minute walk from the NeurIPS Convention Center. Here is a map showing the route:
+![image](assets/imgs/map.png)
+
 ---
 
 ## **Organizers** {#organizers}
