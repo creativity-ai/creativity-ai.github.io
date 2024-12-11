@@ -43,23 +43,23 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 ### Saturday
 
-|    **Time** | **Topic**                      | **Speaker(s)/Presenter(s)**                                             | **Location**                |
-| ----------: | :----------------------------- | :---------------------------------------------------------------------- | :-------------------------- |
-|   8:45-9:00 | Intro / Opening Remarks        |                                                                         | 201 room (NeurIPS) + Online |
-|   9:00-9:15 | Invited Talk                   | Jillian Arnold                                                          | 201 room (NeurIPS) + Online |
-|   9:15-9:45 | Invited Talk                   | Kelly McKernan                                                          | 201 room (NeurIPS) + Online |
-|  9:45-10:15 | Coffee Break                   |                                                                         | 201 room (NeurIPS)          |
-| 10:15-11:15 | Pannel on AI & Copyright       | A. Feder Cooper, Edward Lee, Ben Brooks, Jillian Arnold, Kelly McKernan | 201 room (NeurIPS) + Online |
-| 11:15-11:45 | Contributed Talks              |                                                                         | 201 room (NeurIPS) + Online |
-| 11:45-13:00 | Lunch Break                    |                                                                         |                             |
-| 13:00-14:00 | Poster Session                 |                                                                         | 201 room (NeurIPS)          |
-| 14:00-14:15 | Break / Move to Pinnacle Hotel |                                                                         |                             |
-| 14:15-14:45 | Invited Talk                   | Ted Chiang                                                              | Pinnacle Hotel + Online     |
-| 14:45-15:30 | Coffee Break / Icebreaker      |                                                                         | Pinnacle Hotel              |
-| 15:30-16:00 | Mini Talks                     | Carl Kwoh, Jingna Zhang                                                 | Pinnacle Hotel + Online     |
-| 16:00-17:30 | Round Table Discussions        |                                                                         | Pinnacle Hotel + Online     |
-| 17:30-17:45 | Closing Remarks                |                                                                         | Pinnacle Hotel + Online     |
-| 18:00-21:00 | Dinner                         |                                                                         | Pinnacle Hotel              |
+|    **Time** | **Topic**                               | **Speaker(s)/Presenter(s)**                                                                                                                 | **Location**                |
+| ----------: | :-------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------- |
+|   8:45-9:00 | Intro / Opening Remarks                 |                                                                                                                                             | 201 room (NeurIPS) + Online |
+|   9:00-9:15 | Invited Talk                            | [Jillian Arnold](#jillian-arnold)                                                                                                           | 201 room (NeurIPS) + Online |
+|   9:15-9:45 | Keynote Talk                            | Kelly McKernan                                                                                                                              | 201 room (NeurIPS) + Online |
+|  9:45-10:15 | Coffee Break                            |                                                                                                                                             | 201 room (NeurIPS)          |
+| 10:15-11:15 | Pannel on AI & Copyright                | [A. Feder Cooper](#a-feder-cooper), [Edward Lee](#edward-lee), [Ben Brooks](#ben-brooks), [Jillian Arnold](#jillian-arnold), Kelly McKernan | 201 room (NeurIPS) + Online |
+| 11:15-11:45 | Contributed Talks                       |                                                                                                                                             | 201 room (NeurIPS) + Online |
+| 11:45-13:00 | Lunch Break                             |                                                                                                                                             |                             |
+| 13:00-14:00 | Poster Session                          |                                                                                                                                             | 201 room (NeurIPS)          |
+| 14:00-14:15 | Break / Move to Pinnacle Hotel          |                                                                                                                                             |                             |
+| 14:15-14:45 | Keynote Talk                            | [Ted Chiang](#ted-chiang)                                                                                                                   | Pinnacle Hotel + Online     |
+| 14:45-15:30 | Coffee Break / Icebreaker               |                                                                                                                                             | Pinnacle Hotel              |
+| 15:30-16:00 | Invited Talks                           | [Carl Kwoh](#carl-kwoh), [Jingna Zhang](#jingna-zhang)                                                                                      | Pinnacle Hotel + Online     |
+| 16:00-17:30 | [Round Table Discussions](#roundtables) |                                                                                                                                             | Pinnacle Hotel + Online     |
+| 17:30-17:45 | Closing Remarks                         |                                                                                                                                             | Pinnacle Hotel + Online     |
+| 18:00-21:00 | Dinner                                  |                                                                                                                                             | Pinnacle Hotel              |
 
 ### Sunday
 
@@ -69,9 +69,9 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 ---
 
-## **Keynote Speakers** {#speakers}
+## **Speakers** {#speakers}
 
-<div class="flex flex-col gap-16 mt-8 mb-8">
+<div class="flex flex-col gap-16 mt-8 mb-8" id="ted-chiang">
 <div class="flex items-center">
     <figure class="w-1/3">
         <a href="https://en.wikipedia.org/wiki/Ted_Chiang">
@@ -84,7 +84,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
 </div>
 </div>
 
-<div class="flex items-center">
+<div class="flex items-center" id="anna-huang">
     <figure class="w-1/3">
         <a href="https://czhuang.github.io/">
         <img class="img-author" src="assets/imgs/authors/neurips2024/anna_huang.jpeg" alt="Anna Huang"/></a>
@@ -99,7 +99,7 @@ is a Research Scientist at Magenta in Google DeepMind, specializing in generativ
 
 </div>
 
-<div class="flex flex-col gap-16 mt-8 mb-8">
+<div class="flex flex-col gap-16 mt-8 mb-8" id="a-feder-cooper">
 <div class="flex items-center">
     <figure class="w-1/3">
         <img class="img-author" src="assets/imgs/authors/neurips2024/a-feder-cooper.png" alt="A. Feder Cooper"/>
@@ -111,7 +111,7 @@ is a Research Scientist at Magenta in Google DeepMind, specializing in generativ
 </div>
 </div>
 
-<div class="flex items-center">
+<div class="flex items-center" id="ben-brooks">
     <figure class="w-1/3">
         <img class="img-author" src="assets/imgs/authors/neurips2024/ben-brooks.png" alt="Ben Brooks"/>
         <b><br> Ben Brooks</b>
@@ -121,7 +121,7 @@ is a Research Scientist at Magenta in Google DeepMind, specializing in generativ
 </div>
 </div>
 
-<div class="flex items-center">
+<div class="flex items-center" id="edward-lee">
     <figure class="w-1/3">
         <img class="img-author" src="assets/imgs/authors/neurips2024/edward-lee.png" alt="Edward Lee"/>
         <b><br>Edward Lee</b>
@@ -131,7 +131,7 @@ Professor <b>Edward Lee</b> is a professor at Santa Clara Law and the founder of
 </div>
 </div>
 
-<div class="flex items-center">
+<div class="flex items-center" id="jillian-arnold">
     <figure class="w-1/3">
         <img class="img-author" src="assets/imgs/authors/neurips2024/jillian-arnold.jpeg" alt="Jillian Arnold"/>
         <b><br>Jillian Arnold</b>
@@ -141,7 +141,7 @@ Professor <b>Edward Lee</b> is a professor at Santa Clara Law and the founder of
 </div>
 </div>
 
-<div class="flex items-center">
+<div class="flex items-center" id="jingna-zhang">
     <figure class="w-1/3">
         <img class="img-author" src="assets/imgs/authors/neurips2024/Jingna-Zhang.jpg" alt="Jingna Zhang"/>
         <b><br>Jingna Zhang</b>
@@ -151,7 +151,7 @@ Professor <b>Edward Lee</b> is a professor at Santa Clara Law and the founder of
 </div>
 </div>
 
-<div class="flex items-center">
+<div class="flex items-center" id="carl-kwoh">
     <figure class="w-1/3">
         <img class="img-author" src="assets/imgs/authors/neurips2024/carl-kwoh.jpg" alt="Carl Kwoh"/>
         <b><br>Carl Kwoh</b>
@@ -162,6 +162,44 @@ Professor <b>Edward Lee</b> is a professor at Santa Clara Law and the founder of
 </div>
 
 </div>
+
+---
+
+## **Roundtables** {#roundtables}
+
+### Pinnacle Hotel roundtables
+
+**Priorities for Future Policy: What Matters, Who’s Responsible, and How to Respond**  
+_Moderator: Ben Brooks_  
+There has been lots of talk but little action on AI reform for creators. Reform is complicated by imprecision about what risks matter most to creators and developers, who in the supply chain should mitigate them, and how to respond with technical or regulatory interventions. These challenges are especially acute in an open and distributed ecosystem, where capabilities, risks, and responsibilities are distributed across different actors. This session will ask participants to prioritize risks and interventions, highlighting areas of consensus between creators and developers, as well as areas where AI reforms overreach or miss the mark.
+
+**AI & Storytelling**  
+_Moderator: James Yu_  
+In Roald Dahl's short story "The Great Automatic Grammatizator," he imagined a world where machines could craft Pulitzer-worthy tales—a vision once dismissed as bizarre and far-fetched. Yet, that world is nearly here.
+Today, storytellers are collaborating with AI, from crafting intricate plots to refining prose, spanning everything from short stories to epic novels.
+What happens when the storyteller is an AI-human centaur? Could an AI pen the next Great American Novel? Will the next Hemingway collaborate with AI co-authors? And perhaps the biggest question of all: does AI truly understand what it means to tell a story?
+
+**Defining Creativity: Perspectives and Implications for Creative Tooling**  
+_Moderator: Isabelle Levent_  
+What do we mean when we talk about “creativity?” Sometimes described by features of its product, process, or in relation to specific tasks, creativity lacks a standard definition. In our roundtable, we will discuss various definitions of creativity and how they inform different approaches to creative tooling.
+
+**Impact of generative AI on photography and entertainment art industries**  
+_Moderator: Jingna Zhang_
+
+**Exploring the side affects of AI on Creativity & Labor: the pros, the cons, the issues we never think about**  
+_Moderator: Jillian Arnold_  
+Our goal is to explore the downstream affects of AI on the every day lives of the artists and technicians, in the creative sectors. How does AI affect the track to becoming a master of its craft? What is the new entry level position? How does this affect healthcare, pension, and retirement? What are the up skilling and re-skilling opportunities? How do we reincorporate the creative sector? What are the emotional side affects of economizing, streamlining, and personnel contraction due to AI.
+How can we integrate AI with the least amount of negative impact, while not stifling the positive impact within our creative communities?
+
+### Online roundtables
+
+**Copyright, Creativity, and Machine Learning: Bridging Perspectives**  
+_Moderator: Methab Khan_  
+This roundtable invites participants from diverse backgrounds to explore the intersections of copyright, technology, and creativity. We will discuss the challenges copyright poses to developing ML applications and creative works, focusing on issues like data access, fair use, and protecting creators’ livelihoods. Together, we’ll examine how current copyright laws align with these goals and identify gaps in the law. The discussion will be collaborative, as we will examine fair use factors, analyze ongoing copyright lawsuits against AI companies, and share best practices for ML researchers working with copyrighted data and for creators protecting their work.
+
+**Are AI and authoritarianism inseparable?**  
+_Moderator: Dan Mcquillan_  
+At a time when a) politics pretty much everywhere is swinging to the far right, and b) AI is becoming an increasing part of our social systems, it seems important to ask about the relationship between AI and authoritarianism. Is advanced ML/AI a field with untapped liberatory potential, ready to be applied for good? Or are the legacies of eugenics and supremacy baked too deep into its operations and infrastructures? Come to our roundtable to discuss whether a creative approach to AI can prevent it from becoming yet another abuse of power.
 
 ---
 
@@ -209,6 +247,22 @@ Professor <b>Edward Lee</b> is a professor at Santa Clara Law and the founder of
 - [Revival: Collaborative Artistic Creation through Human-AI Interactions in Musical Creativity](assets/artworks/66.pdf)
 - [Navigating Neural Fields with Vision-Language Models](assets/artworks/69_description.pdf)
 
+---
+
+## **Directions to Pinnacle Hotel from NeurIPS Convention Center** {#directions}
+
+<div class="flex flex-col items-center">
+<iframe
+ class="w-full"
+  height="450"
+  frameborder="0" style="border:0"
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://www.google.com/maps/embed/v1/place
+  ?key=AIzaSyCSpqwDWdwOLuQBVBTLx7C7Mxv3Z4NakZQ
+  &q=Eiffel+Tower,Paris+France"
+  allowfullscreen>
+</iframe>
+</div>
 ---
 
 ## **Organizers** {#organizers}
