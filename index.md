@@ -43,24 +43,24 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 ### Saturday
 
-|    **Time** | **Topic**                                               | **Speaker(s)/Presenter(s)**                                                                                                                 | **Location**                |
-| ----------: | :------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------- |
-|   8:45-9:00 | Intro / Opening Remarks                                 |                                                                                                                                             | 201 room (NeurIPS) + Online |
-|   9:00-9:15 | AI in Hollywood: Acts 1 & 2                             | [Jillian Arnold](#jillian-arnold)                                                                                                           | 201 room (NeurIPS) + Online |
-|   9:15-9:45 | Keynote Talk                                            | Kelly McKernan                                                                                                                              | 201 room (NeurIPS) + Online |
-|  9:45-10:15 | Coffee Break                                            |                                                                                                                                             | 201 room (NeurIPS)          |
-| 10:15-11:15 | Panel on AI & Copyright                                 | [A. Feder Cooper](#a-feder-cooper), [Edward Lee](#edward-lee), [Ben Brooks](#ben-brooks), [Jillian Arnold](#jillian-arnold), Kelly McKernan | 201 room (NeurIPS) + Online |
-| 11:15-11:45 | Contributed Talks                                       |                                                                                                                                             | 201 room (NeurIPS) + Online |
-| 11:45-13:00 | Lunch Break                                             |                                                                                                                                             |                             |
-| 13:00-14:00 | Poster Session                                          |                                                                                                                                             | 201 room (NeurIPS)          |
-| 14:00-14:15 | Break / Move to Pinnacle Hotel                          |                                                                                                                                             |                             |
-| 14:15-14:45 | Keynote Talk                                            | [Ted Chiang](#ted-chiang)                                                                                                                   | Pinnacle Hotel + Online     |
-| 14:45-15:30 | Coffee Break / Icebreaker                               |                                                                                                                                             | Pinnacle Hotel              |
-| 15:30-15:45 | The Opportunity to Connect People Through GenAI         | [Carl Kwoh](#carl-kwoh)                                                                                                                     | Pinnacle Hotel + Online     |
-| 15:45-16:00 | Photography, Go, and Copyright: a Creator's Perspective | [Jingna Zhang](#jingna-zhang)                                                                                                               | Pinnacle Hotel + Online     |
-| 16:00-17:30 | [Round Table Discussions](#roundtables)                 |                                                                                                                                             | Pinnacle Hotel + Online     |
-| 17:30-17:45 | Closing Remarks                                         |                                                                                                                                             | Pinnacle Hotel + Online     |
-| 18:00-21:00 | Dinner                                                  |                                                                                                                                             | Pinnacle Hotel              |
+|    **Time** | **Topic**                                               | **Speaker(s)/Presenter(s)**                                                                                                                                    | **Location**                |
+| ----------: | :------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------- |
+|   8:45-9:00 | Intro / Opening Remarks                                 |                                                                                                                                                                | 201 room (NeurIPS) + Online |
+|   9:00-9:15 | AI in Hollywood: Acts 1 & 2                             | [Jillian Arnold](#jillian-arnold)                                                                                                                              | 201 room (NeurIPS) + Online |
+|   9:15-9:45 | Keynote Talk                                            | [Kelly McKernan](#kelly-mckernan)                                                                                                                              | 201 room (NeurIPS) + Online |
+|  9:45-10:15 | Coffee Break                                            |                                                                                                                                                                | 201 room (NeurIPS)          |
+| 10:15-11:15 | Panel on AI & Copyright                                 | [A. Feder Cooper](#a-feder-cooper), [Edward Lee](#edward-lee), [Ben Brooks](#ben-brooks), [Jillian Arnold](#jillian-arnold), [Kelly McKernan](#kelly-mckernan) | 201 room (NeurIPS) + Online |
+| 11:15-11:45 | Contributed Talks                                       |                                                                                                                                                                | 201 room (NeurIPS) + Online |
+| 11:45-13:00 | Lunch Break                                             |                                                                                                                                                                |                             |
+| 13:00-14:00 | Poster Session                                          |                                                                                                                                                                | 201 room (NeurIPS)          |
+| 14:00-14:15 | Break / Move to Pinnacle Hotel                          |                                                                                                                                                                |                             |
+| 14:15-14:45 | The Incompatibilities between Generative AI and Art     | [Ted Chiang](#ted-chiang)                                                                                                                                      | Pinnacle Hotel + Online     |
+| 14:45-15:30 | Coffee Break / Icebreaker                               |                                                                                                                                                                | Pinnacle Hotel              |
+| 15:30-15:45 | The Opportunity to Connect People Through GenAI         | [Carl Kwoh](#carl-kwoh)                                                                                                                                        | Pinnacle Hotel + Online     |
+| 15:45-16:00 | Photography, Go, and Copyright: a Creator's Perspective | [Jingna Zhang](#jingna-zhang)                                                                                                                                  | Pinnacle Hotel + Online     |
+| 16:00-17:30 | [Round Table Discussions](#roundtables)                 |                                                                                                                                                                | Pinnacle Hotel + Online     |
+| 17:30-17:45 | Closing Remarks                                         |                                                                                                                                                                | Pinnacle Hotel + Online     |
+| 18:00-21:00 | Dinner                                                  |                                                                                                                                                                | Pinnacle Hotel              |
 
 ### Sunday
 
@@ -70,10 +70,57 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 ---
 
+## **Roundtables** {#roundtables}
+
+### Pinnacle Hotel roundtables
+
+**Priorities for Future Policy: What Matters, Who’s Responsible, and How to Respond**  
+_Moderator: [Ben Brooks](#ben-brooks)_  
+There has been lots of talk but little action on AI reform for creators. Reform is complicated by imprecision about what risks matter most to creators and developers, who in the supply chain should mitigate them, and how to respond with technical or regulatory interventions. These challenges are especially acute in an open and distributed ecosystem, where capabilities, risks, and responsibilities are distributed across different actors. This session will ask participants to prioritize risks and interventions, highlighting areas of consensus between creators and developers, as well as areas where AI reforms overreach or miss the mark.
+
+**AI & Creative Writing**  
+_Moderator: [James Yu](#james-yu)_  
+In Roald Dahl's short story "The Great Automatic Grammatizator," he imagined a world where machines could craft Pulitzer-worthy tales—a vision once dismissed as bizarre and far-fetched. Yet, that world is nearly here.
+Today, storytellers are collaborating with AI, from crafting intricate plots to refining prose, spanning everything from short stories to epic novels.
+What happens when the storyteller is an AI-human centaur? Could an AI pen the next Great American Novel? Will the next Hemingway collaborate with AI co-authors? And perhaps the biggest question of all: does AI truly understand what it means to tell a story?
+
+**Defining Creativity: Perspectives and Implications for Creative Tooling**  
+_Moderator: Isabelle Levent_  
+What do we mean when we talk about “creativity?” Sometimes described by features of its product, process, or in relation to specific tasks, creativity lacks a standard definition. In our roundtable, we will discuss various definitions of creativity and how they inform different approaches to creative tooling.
+
+**Impact of generative AI on photography and entertainment art industries**  
+_Moderator: [Jingna Zhang](#jingna-zhang)_  
+This roundtable will examine generative AI's impact across creative fields in fashion and commercial photography, film, publishing, and video game productions. We will discuss current trends in both research and market adoption, explore the different interests, concerns, and challenges of those in the ecosystem, and discuss recommendations that include consideration for creator protections going forward.
+
+**Exploring the side affects of AI on Creativity & Labor: the pros, the cons, the issues we never think about**  
+_Moderator: [Jillian Arnold](#jillian-arnold)_  
+Our goal is to explore the downstream affects of AI on the every day lives of the artists and technicians, in the creative sectors. How does AI affect the track to becoming a master of its craft? What is the new entry level position? How does this affect healthcare, pension, and retirement? What are the up skilling and re-skilling opportunities? How do we reincorporate the creative sector? What are the emotional side affects of economizing, streamlining, and personnel contraction due to AI.
+How can we integrate AI with the least amount of negative impact, while not stifling the positive impact within our creative communities?
+
+**Rulings Not Rules -- Unlocking Improvisational Play**  
+_Moderator: [Carl Kwoh](#carl-kwoh)_  
+In this round-table we discuss how the capabilities of LLMs can unlock a powerful new digital paradigm for creativity and playfulness but moving away from deterministic rules engines, to probabilistic rulings that amplify and personalize the experience.
+
+**Exploring the Intersection of Generative AI and Human Creativity**  
+_Moderator: [Kelly McKernan](#kelly-mckernan)_  
+Generative AI is a quickly moving technology and foundational models are already disrupting creative fields. Some laud these models as a tool in the creative process, while others believe their plagaristic roots preclude authenticity. Is it possible for Gen AI - now or in the future - to aid in creative process in a genuine manner or can it only synthesize the human ingenuity its trained upon?
+
+### Online roundtables
+
+**Copyright, Creativity, and Machine Learning: Bridging Perspectives**  
+_Moderator: [Methab Khan](#methab-khan)_  
+This roundtable invites participants from diverse backgrounds to explore the intersections of copyright, technology, and creativity. We will discuss the challenges copyright poses to developing ML applications and creative works, focusing on issues like data access, fair use, and protecting creators’ livelihoods. Together, we’ll examine how current copyright laws align with these goals and identify gaps in the law. The discussion will be collaborative, as we will examine fair use factors, analyze ongoing copyright lawsuits against AI companies, and share best practices for ML researchers working with copyrighted data and for creators protecting their work.
+
+**What do we do when AI causes harm?**  
+_Moderator: [Dan Mcquillan](#dan-mcquillan)_  
+Generative AI may be undermining livelihoods in the creative sector, but this is only one form of harm. AI and ML are also implicated in disinformation, exploitation, and environmental degradation. What do we do when the real world effects of AI start to diverge strongly from our own values? What if AI seems to align with authoritarian and far right politics? In this roundtable, we will explore concerns about AI's impacts and discuss how we, both as practitioners and citizens, can collectively respond.
+
+---
+
 ## **Speakers** {#speakers}
 
-<div class="flex flex-col gap-16 mt-8 mb-8" id="ted-chiang">
-<div class="flex items-center">
+<div class="flex flex-col gap-16 mt-8 mb-8" >
+<div class="flex items-center" id="ted-chiang">
     <figure class="w-1/3">
         <a href="https://en.wikipedia.org/wiki/Ted_Chiang">
         <img class="img-author" src="assets/imgs/authors/neurips2024/Ted_Chiang-Credit_Alan_Berner.JPG" alt="Ted Chiang (Credit: Alan Berner)"/></a>
@@ -85,23 +132,17 @@ The following schedule is tentative and will be confirmed closer to the workshop
 </div>
 </div>
 
-<div class="flex items-center" id="anna-huang">
+<div class="flex items-center" id="kelly-mckernan">
     <figure class="w-1/3">
-        <a href="https://czhuang.github.io/">
-        <img class="img-author" src="assets/imgs/authors/neurips2024/anna_huang.jpeg" alt="Anna Huang"/></a>
-        <b><br><a href="https://czhuang.github.io/" class="text-main">Anna Huang</a>
-        <br>Computer Science<br>Google DeepMind</b>
+        <img class="img-author" src="assets/imgs/authors/neurips2024/kelly-mckernan.jpeg" alt="Kelly McKernan"/>
+        <b><br>Kelly McKernan</b>
     </figure>
 <div class="w-2/3">
-<a href="https://czhuang.github.io/"><b>Anna Huang</b></a>
-is a Research Scientist at Magenta in Google DeepMind, specializing in generative models and human-AI partnerships in music creation. She developed Coconet, powering Google's first AI Doodle, and Music Transformer, a pioneering model for long-term music generation. She holds a Canada CIFAR AI Chair at Mila, serves as an adjunct professor at the University of Montreal, and has been involved in the AI Song Contest. Her research focuses on designing interactive generative AI systems to enhance music creation, emphasizing interpretability, explainability, and social reinforcement learning.
+<b>Kelly McKernan</b> (they/them) is a fine artist, freelance illustrator, and educator based in Nashville, Tennessee, USA. Their paintings are inspired by art nouveau, dark fantasy, and pop surrealism and feature femme figures exploring their personal mythos as an exploration of Kelly’s own human journey.
 </div>
 </div>
 
-</div>
-
-<div class="flex flex-col gap-16 mt-8 mb-8" id="a-feder-cooper">
-<div class="flex items-center">
+<div class="flex items-center" id="a-feder-cooper">
     <figure class="w-1/3">
         <img class="img-author" src="assets/imgs/authors/neurips2024/a-feder-cooper.png" alt="A. Feder Cooper"/>
         <b><br>A. Feder Cooper</b>
@@ -128,7 +169,7 @@ is a Research Scientist at Magenta in Google DeepMind, specializing in generativ
         <b><br>Edward Lee</b>
     </figure>
 <div class="w-2/3">
-Professor <b>Edward Lee</b> is a professor at Santa Clara Law and the founder of ChatGPTiseatingtheworld.com. His current research focuses on the ways in which AI, blockchain, and other disruptive technologies challenge existing legal paradigms.
+<b>Edward Lee</b> is a professor at Santa Clara Law and the founder of ChatGPTiseatingtheworld.com. His current research focuses on the ways in which AI, blockchain, and other disruptive technologies challenge existing legal paradigms.
 </div>
 </div>
 
@@ -162,50 +203,54 @@ Professor <b>Edward Lee</b> is a professor at Santa Clara Law and the founder of
 </div>
 </div>
 
+<div class="flex items-center" id="anna-huang">
+    <figure class="w-1/3">
+        <a href="https://czhuang.github.io/">
+        <img class="img-author" src="assets/imgs/authors/neurips2024/anna_huang.jpeg" alt="Anna Huang"/></a>
+        <b><br><a href="https://czhuang.github.io/" class="text-main">Anna Huang</a>
+        <br>Computer Science<br>Google DeepMind</b>
+    </figure>
+<div class="w-2/3">
+<a href="https://czhuang.github.io/"><b>Anna Huang</b></a>
+is a Research Scientist at Magenta in Google DeepMind, specializing in generative models and human-AI partnerships in music creation. She developed Coconet, powering Google's first AI Doodle, and Music Transformer, a pioneering model for long-term music generation. She holds a Canada CIFAR AI Chair at Mila, serves as an adjunct professor at the University of Montreal, and has been involved in the AI Song Contest. Her research focuses on designing interactive generative AI systems to enhance music creation, emphasizing interpretability, explainability, and social reinforcement learning.
+</div>
 </div>
 
----
+<div class="flex items-center" id="james-yu">
+    <figure class="w-1/3">
+        <a href="https://czhuang.github.io/">
+        <img class="img-author" src="assets/imgs/authors/neurips2024/james-yu.jpg" alt="James Yu"/></a>
+        <b><br>James Yu</b>
+    </figure>
+<div class="w-2/3">
+<b>James Yu</b> is a writer, technologist, and artist. He is the co-founder of Sudowrite, the AI for creative writers. He is also a published science fiction author. His writing explores how technology alters everyday society and our closest relationships.
+</div>
+</div>
 
-## **Roundtables** {#roundtables}
+<div class="flex items-center" id="methab-khan">
+    <figure class="w-1/3">
+        <a href="https://czhuang.github.io/">
+        <img class="img-author" src="assets/imgs/authors/neurips2024/methab-khan.jpg" alt="Methab Khan"/></a>
+        <b><br>Methab Khan</b>
+    </figure>
+<div class="w-2/3">
+<b>Mehtab Khan</b> is an Assistant Professor of Law and Computer Science at Cleveland State College of Law. She has previously held positions at the Yale Information Society Project and Harvard Berkman Klein Center. She works on copyright and AI governance.
+</div>
+</div>
 
-### Pinnacle Hotel roundtables
+<div class="flex items-center" id="dan-mcquillan">
+    <figure class="w-1/3">
+        <a href="https://czhuang.github.io/">
+        <img class="img-author" src="assets/imgs/authors/neurips2024/dan-mcquillan.jpg" alt="Dan McQuillan"/></a>
+        <b><br>Dan McQuillan</b>
+    </figure>
+<div class="w-2/3">
+After a Ph.D in Experimental Particle Physics, <b>Dan</b> worked with people learning disabilities & mental health issues, created websites with asylum seekers, ran social tech camps in Kyrgyzstan and Sarajevo and worked for Amnesty International and the NHS. He is currently a Lecturer in Creative & Social Computing at Goldsmiths, University of London and recently published 'Resisting AI' with Bristol University Press.
 
-**Priorities for Future Policy: What Matters, Who’s Responsible, and How to Respond**  
-_Moderator: Ben Brooks_  
-There has been lots of talk but little action on AI reform for creators. Reform is complicated by imprecision about what risks matter most to creators and developers, who in the supply chain should mitigate them, and how to respond with technical or regulatory interventions. These challenges are especially acute in an open and distributed ecosystem, where capabilities, risks, and responsibilities are distributed across different actors. This session will ask participants to prioritize risks and interventions, highlighting areas of consensus between creators and developers, as well as areas where AI reforms overreach or miss the mark.
+</div>
+</div>
 
-**AI & Creative Writing**  
-_Moderator: James Yu_  
-In Roald Dahl's short story "The Great Automatic Grammatizator," he imagined a world where machines could craft Pulitzer-worthy tales—a vision once dismissed as bizarre and far-fetched. Yet, that world is nearly here.
-Today, storytellers are collaborating with AI, from crafting intricate plots to refining prose, spanning everything from short stories to epic novels.
-What happens when the storyteller is an AI-human centaur? Could an AI pen the next Great American Novel? Will the next Hemingway collaborate with AI co-authors? And perhaps the biggest question of all: does AI truly understand what it means to tell a story?
-
-**Defining Creativity: Perspectives and Implications for Creative Tooling**  
-_Moderator: Isabelle Levent_  
-What do we mean when we talk about “creativity?” Sometimes described by features of its product, process, or in relation to specific tasks, creativity lacks a standard definition. In our roundtable, we will discuss various definitions of creativity and how they inform different approaches to creative tooling.
-
-**Impact of generative AI on photography and entertainment art industries**  
-_Moderator: Jingna Zhang_  
-This roundtable will examine generative AI's impact across creative fields in fashion and commercial photography, film, publishing, and video game productions. We will discuss current trends in both research and market adoption, explore the different interests, concerns, and challenges of those in the ecosystem, and discuss recommendations that include consideration for creator protections going forward.
-
-**Exploring the side affects of AI on Creativity & Labor: the pros, the cons, the issues we never think about**  
-_Moderator: Jillian Arnold_  
-Our goal is to explore the downstream affects of AI on the every day lives of the artists and technicians, in the creative sectors. How does AI affect the track to becoming a master of its craft? What is the new entry level position? How does this affect healthcare, pension, and retirement? What are the up skilling and re-skilling opportunities? How do we reincorporate the creative sector? What are the emotional side affects of economizing, streamlining, and personnel contraction due to AI.
-How can we integrate AI with the least amount of negative impact, while not stifling the positive impact within our creative communities?
-
-**Rulings Not Rules -- Unlocking Improvisational Play**
-_Moderator: Carl Kwoh_
-In this round-table we discuss how the capabilities of LLMs can unlock a powerful new digital paradigm for creativity and playfulness but moving away from deterministic rules engines, to probabilistic rulings that amplify and personalize the experience.
-
-### Online roundtables
-
-**Copyright, Creativity, and Machine Learning: Bridging Perspectives**  
-_Moderator: Methab Khan_  
-This roundtable invites participants from diverse backgrounds to explore the intersections of copyright, technology, and creativity. We will discuss the challenges copyright poses to developing ML applications and creative works, focusing on issues like data access, fair use, and protecting creators’ livelihoods. Together, we’ll examine how current copyright laws align with these goals and identify gaps in the law. The discussion will be collaborative, as we will examine fair use factors, analyze ongoing copyright lawsuits against AI companies, and share best practices for ML researchers working with copyrighted data and for creators protecting their work.
-
-**Are AI and authoritarianism inseparable?**  
-_Moderator: Dan Mcquillan_  
-At a time when a) politics pretty much everywhere is swinging to the far right, and b) AI is becoming an increasing part of our social systems, it seems important to ask about the relationship between AI and authoritarianism. Is advanced ML/AI a field with untapped liberatory potential, ready to be applied for good? Or are the legacies of eugenics and supremacy baked too deep into its operations and infrastructures? Come to our roundtable to discuss whether a creative approach to AI can prevent it from becoming yet another abuse of power.
+</div>
 
 ---
 
