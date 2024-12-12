@@ -49,7 +49,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
 |   9:00-9:15 | AI in Hollywood: Acts 1 & 2                             | [Jillian Arnold](#jillian-arnold)                                                                                                           | 201 room (NeurIPS) + Online |
 |   9:15-9:45 | Keynote Talk                                            | Kelly McKernan                                                                                                                              | 201 room (NeurIPS) + Online |
 |  9:45-10:15 | Coffee Break                                            |                                                                                                                                             | 201 room (NeurIPS)          |
-| 10:15-11:15 | Pannel on AI & Copyright                                | [A. Feder Cooper](#a-feder-cooper), [Edward Lee](#edward-lee), [Ben Brooks](#ben-brooks), [Jillian Arnold](#jillian-arnold), Kelly McKernan | 201 room (NeurIPS) + Online |
+| 10:15-11:15 | Panel on AI & Copyright                                 | [A. Feder Cooper](#a-feder-cooper), [Edward Lee](#edward-lee), [Ben Brooks](#ben-brooks), [Jillian Arnold](#jillian-arnold), Kelly McKernan | 201 room (NeurIPS) + Online |
 | 11:15-11:45 | Contributed Talks                                       |                                                                                                                                             | 201 room (NeurIPS) + Online |
 | 11:45-13:00 | Lunch Break                                             |                                                                                                                                             |                             |
 | 13:00-14:00 | Poster Session                                          |                                                                                                                                             | 201 room (NeurIPS)          |
@@ -174,7 +174,7 @@ Professor <b>Edward Lee</b> is a professor at Santa Clara Law and the founder of
 _Moderator: Ben Brooks_  
 There has been lots of talk but little action on AI reform for creators. Reform is complicated by imprecision about what risks matter most to creators and developers, who in the supply chain should mitigate them, and how to respond with technical or regulatory interventions. These challenges are especially acute in an open and distributed ecosystem, where capabilities, risks, and responsibilities are distributed across different actors. This session will ask participants to prioritize risks and interventions, highlighting areas of consensus between creators and developers, as well as areas where AI reforms overreach or miss the mark.
 
-**AI & Storytelling**  
+**AI & Creative Writing**  
 _Moderator: James Yu_  
 In Roald Dahl's short story "The Great Automatic Grammatizator," he imagined a world where machines could craft Pulitzer-worthy tales—a vision once dismissed as bizarre and far-fetched. Yet, that world is nearly here.
 Today, storytellers are collaborating with AI, from crafting intricate plots to refining prose, spanning everything from short stories to epic novels.
