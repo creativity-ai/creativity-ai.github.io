@@ -56,7 +56,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
 | 14:00-14:15 | Break / Move to Pinnacle Hotel                          |                                                                                                                                             |                             |
 | 14:15-14:45 | Keynote Talk                                            | [Ted Chiang](#ted-chiang)                                                                                                                   | Pinnacle Hotel + Online     |
 | 14:45-15:30 | Coffee Break / Icebreaker                               |                                                                                                                                             | Pinnacle Hotel              |
-| 15:30-15:45 | Invited Talks                                           | [Carl Kwoh](#carl-kwoh)                                                                                                                     | Pinnacle Hotel + Online     |
+| 15:30-15:45 | The Opportunity to Connect People Through GenAI         | [Carl Kwoh](#carl-kwoh)                                                                                                                     | Pinnacle Hotel + Online     |
 | 15:45-16:00 | Photography, Go, and Copyright: a Creator's Perspective | [Jingna Zhang](#jingna-zhang)                                                                                                               | Pinnacle Hotel + Online     |
 | 16:00-17:30 | [Round Table Discussions](#roundtables)                 |                                                                                                                                             | Pinnacle Hotel + Online     |
 | 17:30-17:45 | Closing Remarks                                         |                                                                                                                                             | Pinnacle Hotel + Online     |
@@ -192,6 +192,10 @@ This roundtable will examine generative AI's impact across creative fields in fa
 _Moderator: Jillian Arnold_  
 Our goal is to explore the downstream affects of AI on the every day lives of the artists and technicians, in the creative sectors. How does AI affect the track to becoming a master of its craft? What is the new entry level position? How does this affect healthcare, pension, and retirement? What are the up skilling and re-skilling opportunities? How do we reincorporate the creative sector? What are the emotional side affects of economizing, streamlining, and personnel contraction due to AI.
 How can we integrate AI with the least amount of negative impact, while not stifling the positive impact within our creative communities?
+
+**Rulings Not Rules -- Unlocking Improvisational Play**
+_Moderator: Carl Kwoh_
+In this round-table we discuss how the capabilities of LLMs can unlock a powerful new digital paradigm for creativity and playfulness but moving away from deterministic rules engines, to probabilistic rulings that amplify and personalize the experience.
 
 ### Online roundtables
 
