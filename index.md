@@ -53,6 +53,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
 | 11:15-11:45 | Contributed Talks                                       |                                                                                                                                                                | 201 room (NeurIPS) + Online |
 | 11:45-13:00 | Lunch Break                                             |                                                                                                                                                                |                             |
 | 13:00-14:00 | Poster Session                                          |                                                                                                                                                                | 201 room (NeurIPS)          |
+| 13:00-14:00 | A Non-technical Overview of Generative AI (concurrent session)                                          |                                                                                                                                                                | Pinnacle Hotel + Online          |
 | 14:00-14:15 | Break / Move to Pinnacle Hotel                          |                                                                                                                                                                |                             |
 | 14:15-14:45 | The Incompatibilities between Generative AI and Art     | [Ted Chiang](#ted-chiang)                                                                                                                                      | Pinnacle Hotel + Online     |
 | 14:45-15:30 | Coffee Break / Icebreaker                               |                                                                                                                                                                | Pinnacle Hotel              |
@@ -66,7 +67,12 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 |   **Time** | **Topic**                    | **Speaker(s)/Presenter(s)** | **Location**   |
 | ---------: | :--------------------------- | :-------------------------- | :------------- |
-| 9:00-14:00 | Detailed schedule to come... |                             | Pinnacle Hotel |
+| 9:00-9:45 | Towards Better Metaphors for Generative AI | Isabelle Levent                            | Pinnacle Hotel |
+| 9:45-10:30 | What are we not thinking of? | Jillian Arnold                            | Pinnacle Hotel |
+| 10:30-11:00 | Coffee break |                             | Pinnacle Hotel |
+| 11:00-11:45 |  Impact of Generative AI on Photography and Entertainment Art  | Jingna Zhang                            | Pinnacle Hotel |
+| 11:45-12:30 | TBD |                             | Pinnacle Hotel |
+| 12:30-14:00 | Lunch on your own / free discussion time |                             | Pinnacle Hotel |
 
 ---
 
