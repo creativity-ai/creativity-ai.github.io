@@ -88,9 +88,9 @@ What happens when the storyteller is an AI-human centaur? Could an AI pen the ne
 _Moderator: Isabelle Levent_  
 What do we mean when we talk about “creativity?” Sometimes described by features of its product, process, or in relation to specific tasks, creativity lacks a standard definition. In our roundtable, we will discuss various definitions of creativity and how they inform different approaches to creative tooling.
 
-**Impact of generative AI on photography and entertainment art industries**  
+**The Creatives' Wishlist: An Exploration of AI Tools to Help the Artistic Community**  
 _Moderator: [Jingna Zhang](#jingna-zhang)_  
-This roundtable will examine generative AI's impact across creative fields in fashion and commercial photography, film, publishing, and video game productions. We will discuss current trends in both research and market adoption, explore the different interests, concerns, and challenges of those in the ecosystem, and discuss recommendations that include consideration for creator protections going forward.
+While capabilities research advance rapidly, research to protect and support creative communities affected by these developments remain largely underexplored. This roundtable will discuss a wishlist of tools surveyed from working professionals in visual arts—such as better ways to protect their work online, detect unauthorized usage, and search for non-AI media. By bringing these real-world needs to researchers, we hope to bridge the gap between academia and the impact that research has had on a community deeply affected by these developments.
 
 **Exploring the side affects of AI on Creativity & Labor: the pros, the cons, the issues we never think about**  
 _Moderator: [Jillian Arnold](#jillian-arnold)_  
@@ -203,19 +203,6 @@ Generative AI may be undermining livelihoods in the creative sector, but this is
 </div>
 </div>
 
-<div class="flex items-center" id="anna-huang">
-    <figure class="w-1/3">
-        <a href="https://czhuang.github.io/">
-        <img class="img-author" src="assets/imgs/authors/neurips2024/anna_huang.jpeg" alt="Anna Huang"/></a>
-        <b><br><a href="https://czhuang.github.io/" class="text-main">Anna Huang</a>
-        <br>Computer Science<br>Google DeepMind</b>
-    </figure>
-<div class="w-2/3">
-<a href="https://czhuang.github.io/"><b>Anna Huang</b></a>
-is a Research Scientist at Magenta in Google DeepMind, specializing in generative models and human-AI partnerships in music creation. She developed Coconet, powering Google's first AI Doodle, and Music Transformer, a pioneering model for long-term music generation. She holds a Canada CIFAR AI Chair at Mila, serves as an adjunct professor at the University of Montreal, and has been involved in the AI Song Contest. Her research focuses on designing interactive generative AI systems to enhance music creation, emphasizing interpretability, explainability, and social reinforcement learning.
-</div>
-</div>
-
 <div class="flex items-center" id="james-yu">
     <figure class="w-1/3">
         <a href="https://czhuang.github.io/">
@@ -301,6 +288,9 @@ After a Ph.D in Experimental Particle Physics, <b>Dan</b> worked with people lea
 ---
 
 ## **Directions to Pinnacle Hotel from NeurIPS Convention Center** {#directions}
+
+The afternoon session on Saturday will be held at the [Pinnacle Hotel](https://maps.app.goo.gl/boycZcuBZgtDaDbi9) from 2pm at the following address:  
+[1133 W Hastings St, Vancouver, BC V6E 3T3](https://maps.app.goo.gl/boycZcuBZgtDaDbi9)
 
 The Pinnacle Hotel is a 6-minute walk from the NeurIPS Convention Center. Here is a map showing the route:
 ![image](assets/imgs/map.png)
