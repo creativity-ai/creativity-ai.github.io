@@ -27,6 +27,19 @@ The workshop is co-located with the NeurIPS 2024 conference, a large annual AI c
 
 ---
 
+## **Locations** {#locations}
+
+| **Time**      | **Location**                                                                                         |
+| ------------- | ---------------------------------------------------------------------------------------------------- |
+| 8:45 - 12:00  | NeurIPS, room 201                                                                                    |
+| 12:00 - 13:00 | Lunch at Indian Delicacy                                                                             |
+| 13:00 - 14:00 | Poster Session at NeurIPS + Wecome & Intro at Pinnacle Hotel Harbourfront, Level A, Corduva Ballroom |
+| 14:00 - 15:00 | Pinnacle Hotel Harbourfront, Level A, Corduva Ballroom                                               |
+| 15:00 - 18:00 | Pinnacle Hotel Harbourfront, Level 3, Ports of the World                                             |
+| 18:00 - 21:00 | Pinnacle Hotel Harbourfront, Level 3, Ports of the World                                             |
+
+---
+
 ## **Important Dates** {#dates}
 
 | **Event**           | **Date**                 |
