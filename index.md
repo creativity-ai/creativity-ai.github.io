@@ -43,36 +43,36 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 ### Saturday
 
-|    **Time** | **Topic**                                               | **Speaker(s)/Presenter(s)**                                                                                                                                    | **Location**                |
-| ----------: | :------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------- |
-|   8:45-9:00 | Intro / Opening Remarks                                 |                                                                                                                                                                | 201 room (NeurIPS) + Online |
-|   9:00-9:15 | AI in Hollywood: Acts 1 & 2                             | [Jillian Arnold](#jillian-arnold)                                                                                                                              | 201 room (NeurIPS) + Online |
-|   9:15-9:45 | Keynote Talk                                            | [Kelly McKernan](#kelly-mckernan)                                                                                                                              | 201 room (NeurIPS) + Online |
-|  9:45-10:15 | Coffee Break                                            |                                                                                                                                                                | 201 room (NeurIPS)          |
-| 10:15-11:15 | Panel on AI & Copyright                                 | [A. Feder Cooper](#a-feder-cooper), [Edward Lee](#edward-lee), [Ben Brooks](#ben-brooks), [Jillian Arnold](#jillian-arnold), [Kelly McKernan](#kelly-mckernan) | 201 room (NeurIPS) + Online |
-| 11:15-11:45 | Contributed Talks                                       |                                                                                                                                                                | 201 room (NeurIPS) + Online |
-| 11:45-13:00 | Lunch Break                                             |                                                                                                                                                                |                             |
-| 13:00-14:00 | Poster Session                                          |                                                                                                                                                                | 201 room (NeurIPS)          |
-| 13:00-14:00 | A Non-technical Overview of Generative AI (concurrent session)                                          |                                                                                                                                                                | Pinnacle Hotel + Online          |
-| 14:00-14:15 | Break / Move to Pinnacle Hotel                          |                                                                                                                                                                |                             |
-| 14:15-14:45 | The Incompatibilities between Generative AI and Art     | [Ted Chiang](#ted-chiang)                                                                                                                                      | Pinnacle Hotel + Online     |
-| 14:45-15:30 | Coffee Break / Icebreaker                               |                                                                                                                                                                | Pinnacle Hotel              |
-| 15:30-15:45 | The Opportunity to Connect People Through GenAI         | [Carl Kwoh](#carl-kwoh)                                                                                                                                        | Pinnacle Hotel + Online     |
-| 15:45-16:00 | Photography, Go, and Copyright: a Creator's Perspective | [Jingna Zhang](#jingna-zhang)                                                                                                                                  | Pinnacle Hotel + Online     |
-| 16:00-17:30 | [Round Table Discussions](#roundtables)                 |                                                                                                                                                                | Pinnacle Hotel + Online     |
-| 17:30-17:45 | Closing Remarks                                         |                                                                                                                                                                | Pinnacle Hotel + Online     |
-| 18:00-21:00 | Dinner                                                  |                                                                                                                                                                | Pinnacle Hotel              |
+|    **Time** | **Topic**                                                      | **Speaker(s)/Presenter(s)**                                                                                                                                    | **Location**                                         |
+| ----------: | :------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------- |
+|   8:45-9:00 | Intro / Opening Remarks                                        |                                                                                                                                                                | 201 room (NeurIPS) + Online                          |
+|   9:00-9:15 | AI in Hollywood: Acts 1 & 2                                    | [Jillian Arnold](#jillian-arnold)                                                                                                                              | 201 room (NeurIPS) + Online                          |
+|   9:15-9:45 | Keynote Talk                                                   | [Kelly McKernan](#kelly-mckernan)                                                                                                                              | 201 room (NeurIPS) + Online                          |
+|  9:45-10:15 | Coffee Break                                                   |                                                                                                                                                                | 201 room (NeurIPS)                                   |
+| 10:15-11:15 | Panel on AI & Copyright                                        | [A. Feder Cooper](#a-feder-cooper), [Edward Lee](#edward-lee), [Ben Brooks](#ben-brooks), [Jillian Arnold](#jillian-arnold), [Kelly McKernan](#kelly-mckernan) | 201 room (NeurIPS) + Online                          |
+| 11:15-11:45 | Contributed Talks                                              |                                                                                                                                                                | 201 room (NeurIPS) + Online                          |
+| 11:45-13:00 | Lunch Break                                                    |                                                                                                                                                                |                                                      |
+| 13:00-14:00 | Poster (Neurips)Session                                        |                                                                                                                                                                | 201 room (NeurIPS)                                   |
+| 13:00-14:00 | A Non-technical Overview of Generative AI (concurrent session) |                                                                                                                                                                | Pinnacle Hotel, Level A, Corduva Ballroom            |
+| 14:00-14:15 | Break / Move to Pinnacle Hotel                                 |                                                                                                                                                                |                                                      |
+| 14:15-14:45 | The Incompatibilities between Generative AI and Art            | [Ted Chiang](#ted-chiang)                                                                                                                                      | Pinnacle Hotel, Level A, Corduva Ballroom + Online   |
+| 14:45-15:30 | Coffee Break / Icebreaker                                      |                                                                                                                                                                | Pinnacle Hotel                                       |
+| 15:30-15:45 | The Opportunity to Connect People Through GenAI                | [Carl Kwoh](#carl-kwoh)                                                                                                                                        | Pinnacle Hotel, Level 3, Ports of the World + Online |
+| 15:45-16:00 | Photography, Go, and Copyright: a Creator's Perspective        | [Jingna Zhang](#jingna-zhang)                                                                                                                                  | Pinnacle Hotel, Level 3, Ports of the World + Online |
+| 16:00-17:30 | [Round Table Discussions](#roundtables)                        |                                                                                                                                                                | Pinnacle Hotel, Level 3, Ports of the World + Online |
+| 17:30-17:45 | Closing Remarks                                                |                                                                                                                                                                | Pinnacle Hotel, Level 3, Ports of the World + Online |
+| 18:00-21:00 | Dinner                                                         |                                                                                                                                                                | Pinnacle Hotel, Level 3, Ports of the World          |
 
 ### Sunday
 
-|   **Time** | **Topic**                    | **Speaker(s)/Presenter(s)** | **Location**   |
-| ---------: | :--------------------------- | :-------------------------- | :------------- |
-| 9:00-9:45 | Towards Better Metaphors for Generative AI | Isabelle Levent                            | Pinnacle Hotel |
-| 9:45-10:30 | What are we not thinking of? | Jillian Arnold                            | Pinnacle Hotel |
-| 10:30-11:00 | Coffee break |                             | Pinnacle Hotel |
-| 11:00-11:45 |  Impact of Generative AI on Photography and Entertainment Art  | Jingna Zhang                            | Pinnacle Hotel |
-| 11:45-12:30 | TBD |                             | Pinnacle Hotel |
-| 12:30-14:00 | Lunch on your own / free discussion time |                             | Pinnacle Hotel |
+|    **Time** | **Topic**                                                    | **Speaker(s)/Presenter(s)** | **Location**   |
+| ----------: | :----------------------------------------------------------- | :-------------------------- | :------------- |
+|   9:00-9:45 | Towards Better Metaphors for Generative AI                   | Isabelle Levent             | Pinnacle Hotel |
+|  9:45-10:30 | What are we not thinking of?                                 | Jillian Arnold              | Pinnacle Hotel |
+| 10:30-11:00 | Coffee break                                                 |                             | Pinnacle Hotel |
+| 11:00-11:45 | Impact of Generative AI on Photography and Entertainment Art | Jingna Zhang                | Pinnacle Hotel |
+| 11:45-12:30 | TBD                                                          |                             | Pinnacle Hotel |
+| 12:30-14:00 | Lunch on your own / free discussion time                     |                             | Pinnacle Hotel |
 
 ---
 
