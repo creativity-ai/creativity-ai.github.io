@@ -296,7 +296,7 @@ After a Ph.D in Experimental Particle Physics, <b>Dan</b> worked with people lea
 - [GoGo Musebots: Generative Music for Robotic Instruments and Human performers](assets/artworks/3.pdf)
 - [Spectra](assets/artworks/6_description.pdf)
 - [mind-meld](assets/artworks/8_description.pdf)
-- [La Solitudine delle Moltitudini (The Solitude of the Multitudes)](assets/artworks/9.pdf)
+- [La Solitudine delle Moltitudini (The Solitude of the Multitudes)](assets/artworks/9_description.pdf)
 - [Regenerate](assets/artworks/10_main.pdf) (see [description](assets/artworks/10_description.pdf))
 - [Forrest Dance](assets/artworks/13_description.pdf)
 - [Dreaming Species](assets/artworks/15.pdf)
