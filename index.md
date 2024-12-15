@@ -29,6 +29,8 @@ The workshop is co-located with the NeurIPS 2024 conference, a large annual AI c
 
 ## **Locations** {#locations}
 
+### Saturday:
+
 | **Time**      | **Location**                                                                                         |
 | ------------- | ---------------------------------------------------------------------------------------------------- |
 | 8:45 - 12:00  | NeurIPS, room 201                                                                                    |
@@ -37,6 +39,10 @@ The workshop is co-located with the NeurIPS 2024 conference, a large annual AI c
 | 14:00 - 15:00 | Pinnacle Hotel Harbourfront, Level A, Corduva Ballroom                                               |
 | 15:00 - 18:00 | Pinnacle Hotel Harbourfront, Level 3, Ports of the World                                             |
 | 18:00 - 21:00 | Pinnacle Hotel Harbourfront, Level 3, Ports of the World                                             |
+
+### Sunday:
+
+Pinnacle Hotel Harbourfront, Level A, Salon F
 
 ---
 
@@ -78,14 +84,13 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 ### Sunday
 
-|    **Time** | **Topic**                                                    | **Speaker(s)/Presenter(s)** | **Location**   |
-| ----------: | :----------------------------------------------------------- | :-------------------------- | :------------- |
-|   9:00-9:45 | Towards Better Metaphors for Generative AI                   | Isabelle Levent             | Pinnacle Hotel |
-|  9:45-10:30 | What are we not thinking of?                                 | Jillian Arnold              | Pinnacle Hotel |
-| 10:30-11:00 | Coffee break                                                 |                             | Pinnacle Hotel |
-| 11:00-11:45 | Impact of Generative AI on Photography and Entertainment Art | Jingna Zhang                | Pinnacle Hotel |
-| 11:45-12:30 | TBD                                                          |                             | Pinnacle Hotel |
-| 12:30-14:00 | Lunch on your own / free discussion time                     |                             | Pinnacle Hotel |
+|    **Time** | **Topic**                                                    | **Speaker(s)/Presenter(s)** | **Location**                     |
+| ----------: | :----------------------------------------------------------- | :-------------------------- | :------------------------------- |
+|   9:00-9:45 | Towards Better Metaphors for Generative AI                   | Isabelle Levent             | Pinnacle Hotel, Level A, Salon F |
+|  9:45-10:30 | What are we not thinking of?                                 | Jillian Arnold              | Pinnacle Hotel, Level A, Salon F |
+| 10:30-11:00 | Coffee break                                                 |                             | Pinnacle Hotel, Level A, Salon F |
+| 11:00-11:45 | Impact of Generative AI on Photography and Entertainment Art | Jingna Zhang                | Pinnacle Hotel, Level A, Salon F |
+| 11:45-14:00 | Discussions followed by Lunch                                |                             | Pinnacle Hotel, Level A, Salon F |
 
 ---
 
