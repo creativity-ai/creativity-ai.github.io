@@ -305,7 +305,7 @@ After a Ph.D in Experimental Particle Physics, <b>Dan</b> worked with people lea
 - [Walter Benjamin’s The Destructive Character AI-fication](assets/artworks/47_main.pdf) (see [description](assets/artworks/47_description.pdf))
 - [Typologies](assets/artworks/51_main.pdf) (see [description](assets/artworks/51_description.pdf))
 - [Ecotones of the Mind](assets/artworks/60_description.pdf)
-- [Elyra Vunaris Presents the Music of Varexia](assets/artworks/65_description.pdf)
+- [Elyra Vunaris Presents the Music of Varexia](https://youtu.be/MU34AFPHfHE?si=dWqh_Yn9QIMSKf62) (see [description](assets/artworks/65.pdf))
 - [Revival: Collaborative Artistic Creation through Human-AI Interactions in Musical Creativity](assets/artworks/66.pdf)
 - [Navigating Neural Fields with Vision-Language Models](assets/artworks/69_description.pdf)
 
