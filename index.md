@@ -98,21 +98,21 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 ### Pinnacle Hotel roundtables
 
-**Priorities for Future Policy: What Matters, Who’s Responsible, and How to Respond**  
+**[Priorities for Future Policy: What Matters, Who’s Responsible, and How to Respond](assets/roundtables/brooks-white_paper.pdf)**  
 _Moderator: [Ben Brooks](#ben-brooks)_  
 There has been lots of talk but little action on AI reform for creators. Reform is complicated by imprecision about what risks matter most to creators and developers, who in the supply chain should mitigate them, and how to respond with technical or regulatory interventions. These challenges are especially acute in an open and distributed ecosystem, where capabilities, risks, and responsibilities are distributed across different actors. This session will ask participants to prioritize risks and interventions, highlighting areas of consensus between creators and developers, as well as areas where AI reforms overreach or miss the mark.
 
-**AI & Creative Writing**  
+**[AI & Creative Writing](assets/roundtables/yu-creativity-white_paper.pdf)**  
 _Moderator: [James Yu](#james-yu)_  
 In Roald Dahl's short story "The Great Automatic Grammatizator," he imagined a world where machines could craft Pulitzer-worthy tales—a vision once dismissed as bizarre and far-fetched. Yet, that world is nearly here.
 Today, storytellers are collaborating with AI, from crafting intricate plots to refining prose, spanning everything from short stories to epic novels.
 What happens when the storyteller is an AI-human centaur? Could an AI pen the next Great American Novel? Will the next Hemingway collaborate with AI co-authors? And perhaps the biggest question of all: does AI truly understand what it means to tell a story?
 
-**Defining Creativity: Perspectives and Implications for Creative Tooling**  
+**[Defining Creativity: Perspectives and Implications for Creative Tooling](assets/roundtables/levent-creativity-white_paper.pdf)**  
 _Moderator: Isabelle Levent_  
 What do we mean when we talk about “creativity?” Sometimes described by features of its product, process, or in relation to specific tasks, creativity lacks a standard definition. In our roundtable, we will discuss various definitions of creativity and how they inform different approaches to creative tooling.
 
-**The Creatives' Wishlist: An Exploration of AI Tools to Help the Artistic Community**  
+**[The Creatives' Wishlist: An Exploration of AI Tools to Help the Artistic Community](assets/roundtables/zhang-ai_impacts-white_paper.pdf)**  
 _Moderator: [Jingna Zhang](#jingna-zhang)_  
 While capabilities research advance rapidly, research to protect and support creative communities affected by these developments remain largely underexplored. This roundtable will discuss a wishlist of tools surveyed from working professionals in visual arts—such as better ways to protect their work online, detect unauthorized usage, and search for non-AI media. By bringing these real-world needs to researchers, we hope to bridge the gap between academia and the impact that research has had on a community deeply affected by these developments.
 
@@ -131,7 +131,7 @@ Generative AI is a quickly moving technology and foundational models are already
 
 ### Online roundtables
 
-**Copyright, Creativity, and Machine Learning: Bridging Perspectives**  
+**[Copyright, Creativity, and Machine Learning: Bridging Perspectives](assets/roundtables/khan-copyright-white_paper.pdf)**  
 _Moderator: [Methab Khan](#methab-khan)_  
 This roundtable invites participants from diverse backgrounds to explore the intersections of copyright, technology, and creativity. We will discuss the challenges copyright poses to developing ML applications and creative works, focusing on issues like data access, fair use, and protecting creators’ livelihoods. Together, we’ll examine how current copyright laws align with these goals and identify gaps in the law. The discussion will be collaborative, as we will examine fair use factors, analyze ongoing copyright lawsuits against AI companies, and share best practices for ML researchers working with copyrighted data and for creators protecting their work.
 
