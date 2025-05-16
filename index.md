@@ -84,13 +84,13 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 ### Sunday
 
-|    **Time** | **Topic**                                                    | **Speaker(s)/Presenter(s)** | **Location**                     |
-| ----------: | :----------------------------------------------------------- | :-------------------------- | :------------------------------- |
-|   9:00-9:45 | Towards Better Metaphors for Generative AI                   | Isabelle Levent             | Pinnacle Hotel, Level A, Salon F |
-|  9:45-10:30 | What are we not thinking of?                                 | Jillian Arnold              | Pinnacle Hotel, Level A, Salon F |
-| 10:30-11:00 | Coffee break                                                 |                             | Pinnacle Hotel, Level A, Salon F |
-| 11:00-11:45 | Impact of Generative AI on Photography and Entertainment Art | Jingna Zhang                | Pinnacle Hotel, Level A, Salon F |
-| 11:45-14:00 | Discussions followed by Lunch                                |                             | Pinnacle Hotel, Level A, Salon F |
+|    **Time** | **Topic**                                                    | **Speaker(s)/Presenter(s)**       | **Location**                     |
+| ----------: | :----------------------------------------------------------- | :-------------------------------- | :------------------------------- |
+|   9:00-9:45 | Towards Better Metaphors for Generative AI                   | Isabelle Levent                   | Pinnacle Hotel, Level A, Salon F |
+|  9:45-10:30 | What are we not thinking of?                                 | [Jillian Arnold](#jillian-arnold) | Pinnacle Hotel, Level A, Salon F |
+| 10:30-11:00 | Coffee break                                                 |                                   | Pinnacle Hotel, Level A, Salon F |
+| 11:00-11:45 | Impact of Generative AI on Photography and Entertainment Art | [Jingna Zhang](#jingna-zhang)     | Pinnacle Hotel, Level A, Salon F |
+| 11:45-14:00 | Discussions followed by Lunch                                |                                   | Pinnacle Hotel, Level A, Salon F |
 
 ---
 
@@ -109,14 +109,14 @@ Today, storytellers are collaborating with AI, from crafting intricate plots to 
 What happens when the storyteller is an AI-human centaur? Could an AI pen the next Great American Novel? Will the next Hemingway collaborate with AI co-authors? And perhaps the biggest question of all: does AI truly understand what it means to tell a story?
 
 **[Defining Creativity: Perspectives and Implications for Creative Tooling](assets/roundtables/levent-creativity-white_paper.pdf)**  
-_Moderator: Isabelle Levent_  
+_Moderator: [Isabelle Levent](https://www.isabelle.land/)_  
 What do we mean when we talk about “creativity?” Sometimes described by features of its product, process, or in relation to specific tasks, creativity lacks a standard definition. In our roundtable, we will discuss various definitions of creativity and how they inform different approaches to creative tooling.
 
 **[The Creatives' Wishlist: An Exploration of AI Tools to Help the Artistic Community](assets/roundtables/zhang-ai_impacts-white_paper.pdf)**  
 _Moderator: [Jingna Zhang](#jingna-zhang)_  
 While capabilities research advance rapidly, research to protect and support creative communities affected by these developments remain largely underexplored. This roundtable will discuss a wishlist of tools surveyed from working professionals in visual arts—such as better ways to protect their work online, detect unauthorized usage, and search for non-AI media. By bringing these real-world needs to researchers, we hope to bridge the gap between academia and the impact that research has had on a community deeply affected by these developments.
 
-**Exploring the side affects of AI on Creativity & Labor: the pros, the cons, the issues we never think about**  
+**[Exploring the side affects of AI on Creativity & Labor: the pros, the cons, the issues we never think about](assets/roundtables/jillian-white_paper.pdf)**  
 _Moderator: [Jillian Arnold](#jillian-arnold)_  
 Our goal is to explore the downstream affects of AI on the every day lives of the artists and technicians, in the creative sectors. How does AI affect the track to becoming a master of its craft? What is the new entry level position? How does this affect healthcare, pension, and retirement? What are the up skilling and re-skilling opportunities? How do we reincorporate the creative sector? What are the emotional side affects of economizing, streamlining, and personnel contraction due to AI.
 How can we integrate AI with the least amount of negative impact, while not stifling the positive impact within our creative communities?
@@ -159,20 +159,20 @@ Generative AI may be undermining livelihoods in the creative sector, but this is
 <div class="flex items-center" id="kelly-mckernan">
     <figure class="w-1/3">
         <img class="img-author" src="assets/imgs/authors/neurips2024/kelly-mckernan.jpeg" alt="Kelly McKernan"/>
-        <b><br>Kelly McKernan</b>
+        <b><br><a href="https://www.kellymckernan.com/" class="text-main" >Kelly McKernan</a></b>
     </figure>
 <div class="w-2/3">
-<b>Kelly McKernan</b> (they/them) is a fine artist, freelance illustrator, and educator based in Nashville, Tennessee, USA. Their paintings are inspired by art nouveau, dark fantasy, and pop surrealism and feature femme figures exploring their personal mythos as an exploration of Kelly’s own human journey.
+<a href="https://www.kellymckernan.com/"><b>Kelly McKernan</b></a> (they/them) is a fine artist, freelance illustrator, and educator based in Nashville, Tennessee, USA. Their paintings are inspired by art nouveau, dark fantasy, and pop surrealism and feature femme figures exploring their personal mythos as an exploration of Kelly’s own human journey.
 </div>
 </div>
 
 <div class="flex items-center" id="a-feder-cooper">
     <figure class="w-1/3">
         <img class="img-author" src="assets/imgs/authors/neurips2024/a-feder-cooper.png" alt="A. Feder Cooper"/>
-        <b><br>A. Feder Cooper</b>
+        <b><br><a href="https://afedercooper.info/" class="text-main" >A. Feder Cooper</a></b>
     </figure>
 <div class="w-2/3">
-<b>A. Feder Cooper</b> is a scalable machine-learning (ML) researcher, co-founder of The GenLaw Center, and an incoming Professor of Computer Science at Yale University. Cooper's contributions span uncertainty estimation, privacy and security of generative-AI systems, distributed training, hyperparameter optimization, and model selection. Cooper also does work in tech policy and law, and spends a lot of time finding ways to effectively communicate the capabilities and limits of AI/ML to interdisciplinary audiences and the public
+<a href="https://afedercooper.info/"><b>A. Feder Cooper</b></a> is a scalable machine-learning (ML) researcher, co-founder of The GenLaw Center, and an incoming Professor of Computer Science at Yale University. Cooper's contributions span uncertainty estimation, privacy and security of generative-AI systems, distributed training, hyperparameter optimization, and model selection. Cooper also does work in tech policy and law, and spends a lot of time finding ways to effectively communicate the capabilities and limits of AI/ML to interdisciplinary audiences and the public
 
 </div>
 </div>
@@ -180,40 +180,40 @@ Generative AI may be undermining livelihoods in the creative sector, but this is
 <div class="flex items-center" id="ben-brooks">
     <figure class="w-1/3">
         <img class="img-author" src="assets/imgs/authors/neurips2024/ben-brooks.png" alt="Ben Brooks"/>
-        <b><br> Ben Brooks</b>
+        <b><br><a href="https://cyber.harvard.edu/people/ben-brooks" class="text-main" >Ben Brooks</a></b>
     </figure>
 <div class="w-2/3">
-<b>Ben Brooks</b> is a Fellow at the Berkman Klein Center, Harvard, where he scrutinizes the regulatory and legislative response to AI models. Previously, he served as Head of Public Policy for Stability AI, custodian of Stable Diffusion, and drove regulatory development efforts at GoogleX, Uber, and Coinbase, working with authorities on the ground in over 25 countries.
+<a href="https://cyber.harvard.edu/people/ben-brooks"><b>Ben Brooks</b></a> is a Fellow at the Berkman Klein Center, Harvard, where he scrutinizes the regulatory and legislative response to AI models. Previously, he served as Head of Public Policy for Stability AI, custodian of Stable Diffusion, and drove regulatory development efforts at GoogleX, Uber, and Coinbase, working with authorities on the ground in over 25 countries.
 </div>
 </div>
 
 <div class="flex items-center" id="edward-lee">
     <figure class="w-1/3">
         <img class="img-author" src="assets/imgs/authors/neurips2024/edward-lee.png" alt="Edward Lee"/>
-        <b><br>Edward Lee</b>
+        <b><br><a href="https://chatgptiseatingtheworld.com/" class="text-main">Edward Lee</a></b>
     </figure>
 <div class="w-2/3">
-<b>Edward Lee</b> is a professor at Santa Clara Law and the founder of ChatGPTiseatingtheworld.com. His current research focuses on the ways in which AI, blockchain, and other disruptive technologies challenge existing legal paradigms.
+<a href="https://chatgptiseatingtheworld.com/"><b>Edward Lee</b></a> is a professor at Santa Clara Law and the founder of ChatGPTiseatingtheworld.com. His current research focuses on the ways in which AI, blockchain, and other disruptive technologies challenge existing legal paradigms.
 </div>
 </div>
 
 <div class="flex items-center" id="jillian-arnold">
     <figure class="w-1/3">
         <img class="img-author" src="assets/imgs/authors/neurips2024/jillian-arnold.jpeg" alt="Jillian Arnold"/>
-        <b><br>Jillian Arnold</b>
+        <b><br><a href="https://www.missioncritical.media/" class="text-main" >Jillian Arnold</a></b>
     </figure>
 <div class="w-2/3">
-<b>Jillian Arnold</b> is a recording and workflow engineer for live tv (Emmys, VMAs, Oscars etc). She is the president of local 695 - sound, video and projection and the IATSE AI negotiations subcommittee chair. 
+<b><a href="https://www.missioncritical.media/">Jillian Arnold</a></b> is a recording and workflow engineer for live tv (Emmys, VMAs, Oscars etc). She is the president of local 695 - sound, video and projection and the IATSE AI negotiations subcommittee chair. 
 </div>
 </div>
 
 <div class="flex items-center" id="jingna-zhang">
     <figure class="w-1/3">
         <img class="img-author" src="assets/imgs/authors/neurips2024/Jingna-Zhang.jpg" alt="Jingna Zhang"/>
-        <b><br>Jingna Zhang</b>
+        <b><br><a href="https://www.zhangjingna.com/" class="text-main">Jingna Zhang</a></b>
     </figure>
 <div class="w-2/3">
-<b>Jingna Zhang</b> is the founder of Cara, a social and portfolio-sharing app for artists and fans with more than a million users in its beta. Prior to Cara, Jingna was an award-winning fashion and fine art photographer for magazines like Vogue, Elle, and Harper’s Bazaar, the founder of an esports team in StarCraft II, and a Singapore Olympic team candidate in air rifle. She works at the intersection of art and technology, advocating for creative rights and responsible AI development.
+<b><a href="https://www.zhangjingna.com/">Jingna Zhang</a></b> is the founder of Cara, a social and portfolio-sharing app for artists and fans with more than a million users in its beta. Prior to Cara, Jingna was an award-winning fashion and fine art photographer for magazines like Vogue, Elle, and Harper’s Bazaar, the founder of an esports team in StarCraft II, and a Singapore Olympic team candidate in air rifle. She works at the intersection of art and technology, advocating for creative rights and responsible AI development.
 </div>
 </div>
 
@@ -231,10 +231,10 @@ Generative AI may be undermining livelihoods in the creative sector, but this is
     <figure class="w-1/3">
         <a href="https://czhuang.github.io/">
         <img class="img-author" src="assets/imgs/authors/neurips2024/james-yu.jpg" alt="James Yu"/></a>
-        <b><br>James Yu</b>
+        <b><br><a href="https://jamesyu.org/" class="text-main">James Yu</a></b>
     </figure>
 <div class="w-2/3">
-<b>James Yu</b> is a writer, technologist, and artist. He is the co-founder of Sudowrite, the AI for creative writers. He is also a published science fiction author. His writing explores how technology alters everyday society and our closest relationships.
+<b><a href="https://jamesyu.org/">James Yu</a></b> is a writer, technologist, and artist. He is the co-founder of Sudowrite, the AI for creative writers. He is also a published science fiction author. His writing explores how technology alters everyday society and our closest relationships.
 </div>
 </div>
 
@@ -242,10 +242,10 @@ Generative AI may be undermining livelihoods in the creative sector, but this is
     <figure class="w-1/3">
         <a href="https://czhuang.github.io/">
         <img class="img-author" src="assets/imgs/authors/neurips2024/methab-khan.jpg" alt="Methab Khan"/></a>
-        <b><br>Methab Khan</b>
+        <b><br><a href="https://www.mehtabk.com/" class="text-main">Methab Khan</a></b>
     </figure>
 <div class="w-2/3">
-<b>Mehtab Khan</b> is an Assistant Professor of Law and Computer Science at Cleveland State College of Law. She has previously held positions at the Yale Information Society Project and Harvard Berkman Klein Center. She works on copyright and AI governance.
+<b><a href="https://www.mehtabk.com/">Mehtab Khan</a></b> is an Assistant Professor of Law and Computer Science at Cleveland State College of Law. She has previously held positions at the Yale Information Society Project and Harvard Berkman Klein Center. She works on copyright and AI governance.
 </div>
 </div>
 
@@ -253,10 +253,10 @@ Generative AI may be undermining livelihoods in the creative sector, but this is
     <figure class="w-1/3">
         <a href="https://czhuang.github.io/">
         <img class="img-author" src="assets/imgs/authors/neurips2024/dan-mcquillan.jpg" alt="Dan McQuillan"/></a>
-        <b><br>Dan McQuillan</b>
+        <b><br><a href="https://danmcquillan.org/pages/about.html" class="text-main">Dan McQuillan</a></b>
     </figure>
 <div class="w-2/3">
-After a Ph.D in Experimental Particle Physics, <b>Dan</b> worked with people learning disabilities & mental health issues, created websites with asylum seekers, ran social tech camps in Kyrgyzstan and Sarajevo and worked for Amnesty International and the NHS. He is currently a Lecturer in Creative & Social Computing at Goldsmiths, University of London and recently published 'Resisting AI' with Bristol University Press.
+After a Ph.D in Experimental Particle Physics, <b><a href="https://danmcquillan.org/pages/about.html">Dan McQuillan</a></b> worked with people learning disabilities & mental health issues, created websites with asylum seekers, ran social tech camps in Kyrgyzstan and Sarajevo and worked for Amnesty International and the NHS. He is currently a Lecturer in Creative & Social Computing at Goldsmiths, University of London and recently published 'Resisting AI' with Bristol University Press.
 
 </div>
 </div>
